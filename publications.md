@@ -75,7 +75,7 @@ title: Publications
 
 * Murali, R., K. Jambhekar, A. Rajkhowa, and P. Alexander, "VSPEC and its Integrated Tool Suite" Proceedings of the 9th IEEE Engineering of Computer-Based Systems Symposium and Workshop, Lund, Sweden, April 8-11, 2002
 
-* Frey, P. and R. Radhakrishnan, H. Carter, P. Alexander, and P. Wilsey,  "A Formal Specification and Verification Framework for Time Warp Based Parallel Simulation," IEEE Transactions on Software Engineering, 28(1) , pp. 58-78
+* Frey, P. and R. Radhakrishnan, H. Carter, P. Alexander, and P. Wilsey,  "A Formal Specification and Verification Framework for Time Warp Based Parallel Simulation," IEEE Transactions on Software Engineering, **28**(1) , pp. 58-78
 
 == 2001 ==
 
@@ -130,5 +130,3 @@ title: Publications
 * Amit Rajkhowa and Perry Alexander, "VSPEC Constraint Modeling and Evaluation" Proceedings of the International Symposium and Workshop on Engineering of Computer-Based Systems (ECBS'99), Nashville, TN, March 1999
 
 * Peter Frey, Ramanan Radhakrishnan, Philip A. Wilsey, Perry Alexander and Hal Carter, "An Extensible Formal Framework for the Specification and Verification of an Optimistic Simulation Protocol" Proceedings of the 32nd Hawaii International Conference on System Sciences (HICSS-32), January, 1999
-
-
