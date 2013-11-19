@@ -5,9 +5,44 @@ title: Publications
 
 # Selected References
 
-* Alexander, P., "Rosetta: Standardization at the System Level," IEEE Computer, **42**(1), January 2009
+* Frisby, N., A. Gill and P. Alexander, "A Pattern for Almost
+  Homomorphic Functions," The ACM SIGPLAN Workshop on Generic
+  Programming (WGP'12), Copenhagen, Denmark, September 9-10, 2012. 
+  
+* Haricombe, L. J., L. A. Emmett, and P. Alexander, "Open Access: An
+  Evolving Alternative," IEEE Computer, 45(8), August 2012,
+  pp. 70-72.
+  
+* Peck, M. and P. Alexander, "Rosetta Composition Semantics," in
+  Progressions and Innovations in Model-Driven Software Engineering,
+  V. G. Díaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and
+  O. S. Martinez, Editors, IGI Global, in press.
 
-* Kimmell, G., N. Frisby, P. Weaver, and P. Alexander,  "Constructing Language Processors with Algebra Combinators ," under review for Science of Computer Programming
+* Kimmell, G., W. Peck, and P. Alexander, "System Development with
+  Oread," 2011 Symposium on Implementation and Application of
+  Functional Langauges (IFL'11), Lawrence, KS, 2011.
+  
+* Austin, E., and P. Alexander, "Haskell + HOL = HaskHOL," 2011
+  Symposium on Implementation and Application of Functional Langauges
+  (IFL'11), Lawrence, KS, 2011. 
+
+* Frisby, N., M. Peck, M. Snyder, P. Alexander, "Model Composition in
+  Rosetta," IEEE Engineering of Computer-Based Systems Symposium and
+  Workshops, (ECBS'11), Las Vegas, NV, 2011. 
+  2010
+
+* Austin, E., and P. Alexander, “HaskHOL: A Haskell Hosted Domain
+  Specific Language Representation of HOL Light,” Trends in Functional
+  Programming (TFP’10), Norman, OK, May 17-19, 2010. 
+
+* Snyder, M., and P. Alexander, “Type-Indexed Monads,” Trends
+  in Functional Programming (TFP’10), Norman, OK, May 17-19, 2010.
+  
+* Kimmell, G., N. Frisby, P. Weaver, and P. Alexander,  "Constructing
+  Language Processors with Algebra Combinators," Science of Computer
+  Programming, **75**(7), July, 2010.
+
+* Alexander, P., "Rosetta: Standardization at the System Level," IEEE Computer, **42**(1), January 2009
 
 * Snyder, M., N. Frisby, G. Kimmell, P. Alexander, "Writing Composable Software with InterpreterLib," Proceedings of Software Composition (SC'09), Zurich, Switzerland, July 2-3, 2009.
 
