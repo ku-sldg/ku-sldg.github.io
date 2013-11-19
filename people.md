@@ -3,26 +3,29 @@ layout: frontpage
 title: People
 ---
 
-## Faculty
+# Faculty
+
 -----
 
 * **Perry Alexander** - Formal methods; design languages; semantics;
   system-level design; component retrieval; and test vector generation. 
 
-## Students
+# Students
+
 -----
 
 * **Evan Austin** - Verifying Haskell in Haskell using HaskHOL
 * **Brigid Halling** - TPM formal specification and verification
 * **Kayla Sale** - Static analusis of species niche models
 
+# Alumni
 
-## Alumni
 -----
-Here is a list of SLDG (University of Kansas) and KBSE (University of
+
+SLDG (University of Kansas) and KBSE (University of
 Cincinnati) students who have graduated under my supervision. 
 
-### PhD Graduates
+## PhD Graduates
 
 -----
 
@@ -75,7 +78,7 @@ Cincinnati) students who have graduated under my supervision.
 * Dr. Jennifer Streb - Abstract interpretation; monadic, composable
   interpreters; and simulation.
   
-### MS Graduates
+## MS Graduates
 
 -----
 
@@ -185,7 +188,7 @@ Cincinnati) students who have graduated under my supervision.
   
 * Megan Peck - Rosetta Composition Semantics
 
-### Undergraduates
+## Undergraduates
 
 -----
 
