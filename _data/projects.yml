@@ -8,7 +8,7 @@
 
 - name: Verified TPM
   github: palexand
-  repo: verified-tpm13
+  repo: verified-tpm12
 
 - name: Niche Modeling
   github: ku-sldg
