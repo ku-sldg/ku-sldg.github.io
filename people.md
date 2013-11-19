@@ -3,8 +3,21 @@ layout: frontpage
 title: People
 ---
 
-## Alumni
+## Faculty
+-----
 
+* Perry Alexander - Formal methods; design languages; semantics;
+  system-level design; component retrieval; and test vector generation. 
+
+## Students
+-----
+
+* Evan Austin - Verifying Haskell in Haskell using HaskHOL
+* Brigid Halling - TPM formal specification and verification
+
+
+## Alumni
+-----
 Here is a list of SLDG (University of Kansas) and KBSE (University of
 Cincinnati) students who have graduated under my supervision. 
 
@@ -51,6 +64,15 @@ Cincinnati) students who have graduated under my supervision.
   C++ from a common, monadic specification. The specification
   language, called Oread, uses monadic constructs to represent various
   computational features.
+  
+* Dr. Nick Frisby - Languages for embedded system design and
+  synthesis; monadic and comonadic interpreters.
+	
+* Dr. Mark Snyder - Type system formalization; type checking; and
+  dependent type systems.
+	
+* Dr. Jennifer Streb - Abstract interpretation; monadic, composable
+  interpreters; and simulation.
   
 ### MS Graduates
 
@@ -160,6 +182,8 @@ Cincinnati) students who have graduated under my supervision.
   designs. The theories are translated into the Refine environment and
   used to evaluate constraints in the COMET co-synthesis environment.
   
+* Megan Peck - Rosetta Composition Semantics
+
 ### Undergraduates
 
 -----
