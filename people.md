@@ -6,14 +6,15 @@ title: People
 ## Faculty
 -----
 
-* Perry Alexander - Formal methods; design languages; semantics;
+* **Perry Alexander** - Formal methods; design languages; semantics;
   system-level design; component retrieval; and test vector generation. 
 
 ## Students
 -----
 
-* Evan Austin - Verifying Haskell in Haskell using HaskHOL
-* Brigid Halling - TPM formal specification and verification
+* **Evan Austin** - Verifying Haskell in Haskell using HaskHOL
+* **Brigid Halling** - TPM formal specification and verification
+* **Kayla Sale** - Static analusis of species niche models
 
 
 ## Alumni
