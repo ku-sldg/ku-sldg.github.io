@@ -18,7 +18,14 @@ Center's Computer Systems Design Laboratory.
 
 -----
 
-* Coming Soon
+* "Verifying TPM Protocols Using a State Monad" submitted to FM'14
+* Dr. Perry Alexander named Outstanding Honors Advisor by the KU
+  Honors Program for 2013
+* "Synthesizing Software Infrastructure for Remote Attestation"
+  submitted with Andy Gill and Prasad Kulkarning to the NSF SaTC
+  program
+* ArmoredSoftware awarded by the United States Department of Defense
+* ACHILLES awarded with Adventium Labs by DARPA
 
 # Team
 
