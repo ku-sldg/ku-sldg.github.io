@@ -33,6 +33,7 @@ Technology Center at The University of Kansas.
 
 * Brigid Halling
 * Evan Austin
+* Kayla Sale
 
 ## Weekly Research Meetings
 -----
