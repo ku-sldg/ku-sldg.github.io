@@ -7,7 +7,7 @@
 - name: ACHILLES
   github: ku-sldg
   repo: achilles13
-  description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs."
+  description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs.  This is joint work with Adventium Labs."
   sponsor: DARPA
 
 - name: Verified TPM
@@ -25,7 +25,7 @@
 - name: Virtual Vector Laboratory
   github: ku-sldg
   repo: vvl
-  description: "The objective of the Virtual Vector Laboratory is to develop techniques for autmoatically recognizing insect carriers of human diseases."
+  description: "The objective of the Virtual Vector Laboratory is to develop techniques for autmoatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
   sponsor: KU Research Investment Council
 
 
