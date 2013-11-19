@@ -7,13 +7,14 @@ title: Projects
 
 -----
 
-* [http://palexand.github.io/verfied-tpm12](Verified TPM)
+
+* [Verified TPM](http://palexand.github.io/verfied-tpm12)
 
 ## ArmoredSoftware
 
 -----
 
-* [http://armoredsoftware.github.io/ArmoredSoftware](ArmoredSoftware)
+* [ArmoredSoftware](http://armoredsoftware.github.io/ArmoredSoftware)
 
 ## ACHILLES
 
