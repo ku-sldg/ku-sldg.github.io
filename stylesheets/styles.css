@@ -229,6 +229,8 @@ footer {
   
   header ul, header p.view {
     position:static;
+    margin:0;
+    padding:0;
   }
   
   pre, code {
