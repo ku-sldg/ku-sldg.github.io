@@ -14,13 +14,13 @@ engineering activities. The System Level Design group is supported by
 The University of Kansas' Information and Telecommunication Technology
 Center's Computer Systems Design Laboratory. 
 
-## Recent Activities
+# Recent Activities
 
 -----
 
 * Coming Soon
 
-## Team
+# Team
 
 -----
 
