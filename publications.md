@@ -5,6 +5,18 @@ title: Publications
 
 # Selected References
 
+* Halling, B. and P. Alexander, “Verifying TPM Protocols Using a State
+  Monad,” submitted to The 19th Interna- tional Symposium on Formal
+  Methods (FM’14), Singapore, May 14–16, 2014 
+
+* Austin, E. and P. Alexander, “Stateless Higher-Order Logic with
+  Quantified Types,” International Conference on Interactive Theorem
+  Proving (ITP’13), LNCS 7998, Rennes, France, July 2013.
+
+* Halling, B., and P. Alexander, “Verifying a Privacy CA Remote
+  Attestation Protocol,” NASA Formal Methods Conference (NFM’13), LNCS
+  7871, Mountain View, CA, May 2013.
+
 * Frisby, N., A. Gill and P. Alexander, "A Pattern for Almost
   Homomorphic Functions," The ACM SIGPLAN Workshop on Generic
   Programming (WGP'12), Copenhagen, Denmark, September 9-10, 2012. 
