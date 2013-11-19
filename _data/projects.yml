@@ -1,0 +1,15 @@
+- name: ArmoredSoftware
+  github: armoredsoftware
+  repo: ArmoredSoftware
+
+- name: ACHILLES
+  github: ku-sldg
+  repo: achilles13
+
+- name: Verified TPM
+  github: palexand
+  repo: verified-tpm13
+
+- name: Niche Modeling
+  github: ku-sldg
+  repo: ibex13

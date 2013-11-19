@@ -20,3 +20,13 @@ title: Projects
 -----
 
 * Website coming soon
+
+{% for project in site.data.projects %}
+
+# {{ project.name }}
+
+---
+
+* [{{ project.name }}](http://{{ project.github }}.github.io/{{ project.repo }})
+
+{% endfor %}
