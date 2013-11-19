@@ -3,8 +3,6 @@ layout: frontpage
 title: Publications
 ---
 
-# Publications
-
 * Alexander, P., "Rosetta: Standardization at the System Level," IEEE Computer, **42**(1), January 2009
 
 * Kimmell, G., N. Frisby, P. Weaver, and P. Alexander,  "Constructing Language Processors with Algebra Combinators ," under review for Science of Computer Programming
