@@ -8,7 +8,7 @@ title: Projects
 -----
 
 
-* [Verified TPM](http://palexand.github.io/verfied-tpm12)
+* [Verified TPM](http://palexand.github.io/verified-tpm12)
 
 ## ArmoredSoftware
 
