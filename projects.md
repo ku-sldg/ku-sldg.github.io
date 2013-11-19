@@ -11,7 +11,8 @@ title: Projects
 
 -----
 
-[{{ project.name }}](http://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}<br>
+[{{ project.name }}](http://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
+
 Sponsors: {{ project.sponsor }}
 
 {% endfor %}
