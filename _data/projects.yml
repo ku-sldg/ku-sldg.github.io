@@ -22,3 +22,10 @@
   description: "The objective of the Niche Modeling static analysis project is to use model checking techniques to statically analyze species distribution models."
   sponsor: KU
 
+- name: Virtual Vector Laboratory
+  github: ku-sldg
+  repo: vvl
+  description: "The objective of the Virtual Vector Laboratory is to develop techniques for autmoatically recognizing insect carriers of human diseases."
+  sponsor: KU Research Investment Council
+
+
