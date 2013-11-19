@@ -15,27 +15,30 @@ The University of Kansas' Information and Telecommunication Technology
 Center's Computer Systems Design Laboratory. 
 
 ## Recent Activities
+
 -----
 
 * Coming Soon
 
 ## Team
+
 -----
 
 SLDG is a part of The Information and Telecommunication
 Technology Center at The University of Kansas.
 
-### Faculty
+## Faculty
 
 * Perry Alexander (@palexand)
 
-### Students
+## Students
 
 * Brigid Halling
 * Evan Austin
 * Kayla Sale
 
-## Weekly Research Meetings
+# Weekly Research Meetings
+
 -----
 
 * ArmoredSoftware - 10am Tuesday - 208 Nichols

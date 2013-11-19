@@ -3,7 +3,7 @@ layout: frontpage
 title: Publications
 ---
 
-# Selected References
+# Selected Publications
 
 * Halling, B. and P. Alexander, “Verifying TPM Protocols Using a State
   Monad,” submitted to The 19th Interna- tional Symposium on Formal

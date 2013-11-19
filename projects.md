@@ -9,13 +9,13 @@ title: Projects
 
 * [TPM Verification](http://palexand.github.io/verified-tpm12)
 
-## ArmoredSoftware
+# ArmoredSoftware
 
 -----
 
 * [ArmoredSoftware](http://armoredsoftware.github.io/ArmoredSoftware)
 
-## ACHILLES
+# ACHILLES
 
 -----
 
