@@ -16,3 +16,6 @@ title: Projects
 Sponsors: {{ project.sponsor }}
 
 {% endfor %}
+
+# Inactive Projects
+
