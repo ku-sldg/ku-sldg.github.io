@@ -27,14 +27,15 @@ Technology Center at The University of Kansas.
 
 ### Faculty
 
-* Perry Alexander (PI)
+* Perry Alexander (@palexand)
 
 ### Students
 
 * Brigid Halling
 * Evan Austin
 
-## Sponsors
+## Weekly Research Meetings
 -----
 
-* Coming Soon
+* ArmoredSoftware - 10am Tuesday - 208 Nichols
+* Lambda - TBD
