@@ -23,7 +23,7 @@ title: People
 {% for person in site.data.people %}
 
 {% if person.role == student %}
-* **{{ person.name }}** - {{ person.description }}
+* {{ person.name }} - {{ person.description }}
 {% else %}
 {% endif %}
 
