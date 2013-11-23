@@ -9,15 +9,15 @@ title: People
 
 {% for person in site.data.people %}
 
-{% if person.role == faculty %}
+if person.role == faculty
 
 * {{ person.name }} - {{ person.description }}
 
-{% else %}
+else
 
 * nothing
 
-{% endif %}
+endif
 
 {% endfor %}
 
