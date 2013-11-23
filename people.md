@@ -12,6 +12,7 @@ title: People
 {% if person.role == faculty %}
 * {{ person.name }} - {{ person.description }}
 {% else %}
+* nothing
 {% endif %}
 
 {% endfor %}
