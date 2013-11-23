@@ -15,7 +15,7 @@ title: People
 
 {% else %}
 
-* nothing
+* {{ person.role }}
 
 {% endif %}
 
