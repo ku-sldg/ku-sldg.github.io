@@ -2,6 +2,7 @@
   description: Formal methods; trusted computing; design languages; semantics; system-level design; component retrieval; and test vector generation. 
   role: faculty
   email: palexand@ku.edu
+  github: @palexand
 
 - name: Evan Austin
   description: Verifying Haskell in Haskell using HaskHOL
