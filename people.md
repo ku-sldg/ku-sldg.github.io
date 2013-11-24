@@ -7,23 +7,27 @@ title: People
 
 -----
 
+<ul>
 {% for person in site.data.people %}
 {% if person.role == "faculty" %}
-* **{{ person.name }}** - {{ person.description }}
+<li>**{{ person.name }}** - {{ person.description }}</li>
 {% else %}
 {% endif %}
 {% endfor %}
+</ul>
 
 # Students
 
 -----
 
+<ul>
 {% for person in site.data.people %}
-  {% if person.role == "student" %}
-* **{{ person.name }}** - {{ person.description }}
-  {% else %}
-  {% endif %}
+{% if person.role == "student" %}
+<li>**{{ person.name }}** - {{ person.description }}</li>
+{% else %}
+{% endif %}
 {% endfor %}
+</ul>
 
 -----
 
