@@ -54,7 +54,11 @@ Technology Center at The University of Kansas.
 <ul>
 {% for person in site.data.people %}
 {% if person.role == "student" %}
+  {% if person.web == nil %}
 <li>{{ person.name }}</li>
+  {% else %}
+<li><a href="{{ person.web }}">{{ person.name }}</a></li>
+  {% endif %}
 {% else %}
 {% endif %}
 {% endfor %}
