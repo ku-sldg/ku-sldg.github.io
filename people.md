@@ -98,6 +98,13 @@ Cincinnati) students who have graduated under my supervision.
 
 -----
 
+{% for person in site.data.people %}
+  {% if person.role == "ms" %}
+* **{{ person.name }}** - {{ person.description }}
+  {% else %}
+  {% endif %}
+{% endfor %}
+
 * Mark Snyder - Modular Type Checking for Rosetta - Defined and
   developed a type checking system for a subset of Rosetta
   specifications. Using InterpreterLib, the type checker is
@@ -207,6 +214,13 @@ Cincinnati) students who have graduated under my supervision.
 ## Undergraduates
 
 -----
+
+{% for person in site.data.people %}
+  {% if person.role == "ug" %}
+* **{{ person.name }}** - {{ person.description }}
+  {% else %}
+  {% endif %}
+{% endfor %}
 
 * Justin Ward - Polytypic Theorem Proving Framwork - The Prufrock
   (literary reference intended) polytypic theorem prover

@@ -21,3 +21,15 @@
 - name: Dr. John Penix
   description: Formal Component Retrieval and Architecture Representation - A technique for efficient, correct retrieval of components and a theory of architectures is presented. The component retrieval system combines faceted retrieval and specification matching. Facets are formally defined and extracted from component specifications using forward inference. Retrieval based on facets culls the solution space making specification matching feasible. Architecture theories are used to compose and adapt specifications.
   role: phd    
+
+- name: Megan Peck
+  description: Rosetta Composition Semantics - Developed a formal semantics for Rosetta component composition.  Each Rosetta model assumes a coalgebraic semantics, thus composition becomes composition of coalgebras.
+  role: ms
+
+- name: Brigid Halling
+  description: Towards a Formal Model of the TPM - Developed a formal model of the TPM v1.2 using PVS.  Command execution sequencing is done using a state monad to thread state through a command sequence.  
+  role: ms
+
+- name: Justin Ward
+  description Polytypic Theorem Proving Framwork - The Prufrock (literary reference intended) polytypic theorem prover famework. Prufrock was developed to perform static anlaysis on Haskell and Rosetta source modules. It is a first-order theorem prover supporting rewriting and a proof scripting language.
+  role: ug
