@@ -45,12 +45,7 @@ Technology Center at The University of Kansas.
 
 ## Students
 
-{% for person in site.data.people %}
-  {% if person.role == "student" %}
-* {{ person.name }}
-  {% else %}
-  {% endif %}
-{% endfor %}
+{% for person in site.data.people %}{% if person.role == "student" %}* {{ person.name }}{% else %}{% endif %}{% endfor %}
 
 # Weekly Research Meetings
 
