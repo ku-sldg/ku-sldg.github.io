@@ -38,6 +38,13 @@ Cincinnati) students who have graduated under my supervision.
 
 -----
 
+{% for person in site.data.people %}
+{% if person.role == "phd" %}
+* {{ person.name }} - {{ person.description }}
+{% else %}
+{% endif %}
+{% endfor %}
+
 * Dr. Phillip Baraona - VSPEC Formal Semantics - The syntax and
   semantics of the VSPEC specification language are described. A
   transformation from single and multi-component specifications to
