@@ -68,5 +68,9 @@ Technology Center at The University of Kansas.
 
 -----
 
-* ArmoredSoftware - 10am Tuesday - 208 Nichols
-* Lambda - TBD
+<ul>
+{% for meeting in site.data.meetings %}
+<li>{{ meeting.name }} - {{ meeting.time }} - {{ meeting.place }}</li>
+{% endfor %}
+</ul>
+
