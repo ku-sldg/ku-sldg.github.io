@@ -18,9 +18,12 @@ title: People
 
 -----
 
-* **Evan Austin** - Verifying Haskell in Haskell using HaskHOL
-* **Brigid Halling** - TPM formal specification and verification
-* **Kayla Sale** - Static analusis of species niche models
+{% for person in site.data.people %}
+{% if person.role == "student" %}
+* **{{ person.name }}** - {{ person.description }}
+{% else %}
+{% endif %}
+{% endfor %}
 
 -----
 
