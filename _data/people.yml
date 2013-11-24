@@ -31,5 +31,5 @@
   role: ms
 
 - name: Justin Ward
-  description Polytypic Theorem Proving Framwork - The Prufrock (literary reference intended) polytypic theorem prover famework. Prufrock was developed to perform static anlaysis on Haskell and Rosetta source modules. It is a first-order theorem prover supporting rewriting and a proof scripting language.
+  description: Polytypic Theorem Proving Framwork - The Prufrock (literary reference intended) polytypic theorem prover famework. Prufrock was developed to perform static anlaysis on Haskell and Rosetta source modules. It is a first-order theorem prover supporting rewriting and a proof scripting language.
   role: ug
