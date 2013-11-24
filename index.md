@@ -30,7 +30,6 @@ Center's Computer Systems Design Laboratory.
 {% endfor %}
 </ul>
 
-* "Verifying TPM Protocols Using a State Monad" submitted to FM'14
 * Dr. Perry Alexander named Outstanding Honors Advisor by the KU
   Honors Program for 2013
 * "Synthesizing Software Infrastructure for Remote Attestation"
