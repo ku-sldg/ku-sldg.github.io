@@ -33,3 +33,27 @@
 - name: Justin Ward
   description: Polytypic Theorem Proving Framwork - The Prufrock (literary reference intended) polytypic theorem prover famework. Prufrock was developed to perform static anlaysis on Haskell and Rosetta source modules. It is a first-order theorem prover supporting rewriting and a proof scripting language.
   role: ug
+
+- name: Dr. Murali Rangarajan
+  description: VSPEC formal analysis using automatically generated proof obligations - Defined and implemented a methodology for automatically generating a discharging proof obligations from VSPEC specifications. The semantics of VSPEC were encoded in PVS and proof obligations to test several classes of interface errors generated. Automatic proof scripts are generated with the obligations to attempt automated verification.
+  role: phd  
+
+- name: Dr. Cindy Kong
+  description: Formal Semantics for Model-Based Specification - Defined a formal semantics for model-based specification and a denotation for the Rosetta specification language to that formalism. The system is based on using hidden algebras to represent abstract state allowing refinement in specification domains.
+  role: phd  
+
+- name: Dr. Garrin Kimmel
+  description: System Synthesis from a Monadic Functional Language - Defined a methodology for synthesizing globally asynchronous, locally synchronous (GALS) implementations in VHDL and C++ from a common, monadic specification. The specification language, called Oread, uses monadic constructs to represent various computational features.
+  role: phd    
+
+- name: Dr. Nick Frisby
+  description: Languages for embedded system design and synthesis; monadic and comonadic interpreters.
+  role: phd  	
+
+- name: Dr. Mark Snyder
+  description: Type system formalization; type checking; and dependent type systems.
+  role: phd  	
+
+- name: Dr. Jennifer Streb
+  description: Abstract interpretation; monadic, composable interpreters; and simulation.
+  role: phd  
