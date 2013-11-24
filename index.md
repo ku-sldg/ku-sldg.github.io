@@ -36,13 +36,21 @@ Technology Center at The University of Kansas.
 
 ## Faculty
 
-* Perry Alexander (@palexand)
+{% for person in site.data.people %}
+{% if person.role == "faculty" %}
+* {{ person.name }}
+{% else %}
+{% endif %}
+{% endfor %}
 
 ## Students
 
-* Brigid Halling
-* Evan Austin
-* Kayla Sale
+{% for person in site.data.people %}
+  {% if person.role == "student" %}
+* {{ person.name }}
+  {% else %}
+  {% endif %}
+{% endfor %}
 
 # Weekly Research Meetings
 
