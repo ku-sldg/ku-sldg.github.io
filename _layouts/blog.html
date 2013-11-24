@@ -19,7 +19,7 @@
         <h3>{{ site.subtitle }}</h3>
 	<p></p>
 
-<ul id="archive">
+<ol id="archive">
 {% for post in site.posts %}
   <li class="post-{{ post.category }}">
   {% if post.external_url == nil %}
@@ -29,7 +29,7 @@
   {% endif %}
   </li>
 {% endfor %}
-</ul>
+</ol>
 
 
       </header>
