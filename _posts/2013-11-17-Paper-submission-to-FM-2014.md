@@ -1,5 +1,5 @@
 ---
-layout: bare
+layout: blog
 title: FM Submission
 ---
 Brigid Halling and Perry Alexander submitted the paper "Verifying TPM
