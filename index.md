@@ -34,9 +34,6 @@ Center's Computer Systems Design Laboratory.
 
 -----
 
-SLDG is a part of The Information and Telecommunication
-Technology Center at The University of Kansas.
-
 ## Faculty
 
 <ul>
@@ -66,6 +63,9 @@ Technology Center at The University of Kansas.
 {% endif %}
 {% endfor %}
 </ul>
+
+The System-Level Design Group is a part of The Information and
+Telecommunication Technology Center at The University of Kansas.
 
 # Weekly Research Meetings
 
