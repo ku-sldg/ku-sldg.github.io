@@ -36,12 +36,14 @@ Technology Center at The University of Kansas.
 
 ## Faculty
 
+<ul>
 {% for person in site.data.people %}
 {% if person.role == "faculty" %}
-* {{ person.name }}
+<li>{{ person.name }}</li>
 {% else %}
 {% endif %}
 {% endfor %}
+</ul>
 
 ## Students
 
