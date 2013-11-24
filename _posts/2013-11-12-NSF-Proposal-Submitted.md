@@ -1,5 +1,5 @@
 ---
-layout: bare
+layout: blog
 title: NSF Submission
 ---
 *Synthesizing Software Infrastructure for Remote Attestation*

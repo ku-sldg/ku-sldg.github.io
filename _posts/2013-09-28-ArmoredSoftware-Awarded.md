@@ -1,5 +1,5 @@
 ---
-layout: bare
+layout: blog
 title: ArmoredSoftware Awarded
 ---
 We are pleased to announce a new DoD award to investigate trusted

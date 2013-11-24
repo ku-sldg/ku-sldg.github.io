@@ -1,5 +1,5 @@
 ---
-layout: bare
+layout: blog
 title: ACHILLES Awarded
 ---
 We are exicited to announce that we are under contract with Adventium
