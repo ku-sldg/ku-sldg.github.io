@@ -18,6 +18,18 @@ Center's Computer Systems Design Laboratory.
 
 -----
 
+<ul id="archive">
+{% for post in site.posts %}
+  <li class="post-{{ post.category }}">
+  {% if post.external_url == nil %}
+    <a href="{{ post.url }}">{{ post.title }}</a><abbr>{{ post.date | date_to_string }}</abbr>
+  {% else %}
+    <a href="{{ post.external_url }}">{{ post.title }}</a><abbr>{{ post.date | date_to_string }}</abbr>
+  {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
 * "Verifying TPM Protocols Using a State Monad" submitted to FM'14
 * Dr. Perry Alexander named Outstanding Honors Advisor by the KU
   Honors Program for 2013
