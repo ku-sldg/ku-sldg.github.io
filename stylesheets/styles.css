@@ -103,9 +103,9 @@ header {
 
 header ul {
   list-style:none;
-  height:40px;
+/*  height:40px;
   
-/*  padding:0;
+  padding:0;
   
   background: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
@@ -117,8 +117,9 @@ header ul {
   
   border-radius:5px;
   border:1px solid #d2d2d2;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;*/
+  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
   width:270px;
+*/
 }
 
 /*
