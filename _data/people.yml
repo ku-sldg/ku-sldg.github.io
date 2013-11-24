@@ -23,7 +23,7 @@
   role: phd    
 
 - name: Megan Peck
-  description: Rosetta Composition Semantics - Developed a formal semantics for Rosetta component composition.  Each Rosetta model assumes a coalgebraic semantics, thus composition becomes composition of coalgebras.
+  description: Rosetta Composition Semantics - Developed a formal semantics for Rosetta component composition.  Each Rosetta model assumes a co-algebraic semantics, thus composition becomes composition of co-algebras.
   role: ms
 
 - name: Brigid Halling
