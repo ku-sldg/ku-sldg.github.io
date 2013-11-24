@@ -17,3 +17,7 @@
 - name: Dr. Phillip Baraona
   description: VSPEC Formal Semantics - The syntax and semantics of the VSPEC specification language are described. A transformation from single and multi-component specifications to Larch Shared Language specifications is defined to provide language syntax. Component specifications are defined using the canonical axiomatic style extended to represent component activation. Interconnected components are modeled using CSP to model control.
   role: phd  
+
+- name: Dr. John Penix
+  description: Formal Component Retrieval and Architecture Representation - A technique for efficient, correct retrieval of components and a theory of architectures is presented. The component retrieval system combines faceted retrieval and specification matching. Facets are formally defined and extracted from component specifications using forward inference. Retrieval based on facets culls the solution space making specification matching feasible. Architecture theories are used to compose and adapt specifications.
+  role: phd    
