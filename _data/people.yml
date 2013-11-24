@@ -1,5 +1,8 @@
 - name: Perry Alexander
-  description: Formal methods; design languages; semantics; system-level design; component retrieval; and test vector generation. 
+  description: Formal methods; trusted computing; design languages; semantics; system-level design; component retrieval; and test vector generation. 
+  email: palexand@ku.edu
+  github: @palexand
+  web: http://www.ittc.ku.edu/~alex
   role: faculty
 
 - name: Evan Austin
@@ -7,11 +10,11 @@
   role: student
 
 - name: Brigid Halling
-  description: TPM formal specification and verification
+  description: TPM 1.2 formal specification and verification
   role: student
 
 - name: Kayla Sale
-  description: Static analusis of species niche models
+  description: Static analusis of species niche models using SAL
   role: student
 
 - name: Dr. Phillip Baraona
