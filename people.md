@@ -9,7 +9,7 @@ title: People
 
 {% for person in site.data.people %}
 {% if person.role == "faculty" %}
-* {{ person.name }} - {{ person.description }}
+* **{{ person.name }}** - {{ person.description }}
 {% else %}
 {% endif %}
 {% endfor %}
