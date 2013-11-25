@@ -64,6 +64,21 @@ Center's Computer Systems Design Laboratory.
 {% endfor %}
 </ul>
 
+## Research Staff
+
+<ul>
+{% for person in site.data.people %}
+{% if person.role == "staff" %}
+  {% if person.web == nil %}
+<li>{{ person.name }}</li>
+  {% else %}
+<li><a href="{{ person.web }}">{{ person.name }}</a></li>
+  {% endif %}
+{% else %}
+{% endif %}
+{% endfor %}
+</ul>
+
 The System-Level Design Group is a part of The Information and
 Telecommunication Technology Center at The University of Kansas.
 
