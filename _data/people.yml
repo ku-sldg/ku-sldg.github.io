@@ -4,6 +4,14 @@
   email: palexand@ku.edu
   web: http://www.ittc.ku.edu/~alex
 
+- name: Leon Searl
+  description: Research staff
+  role: staff
+
+- name: Ed Komp
+  description: Research staff
+  role: staff
+
 - name: Evan Austin
   description: Verifying Haskell in Haskell using HaskHOL
   role: student
@@ -124,4 +132,3 @@
 - name: Liming Cai
   description: Constraint Modeling - Formal theories for constraint modeling are developed using the algebraic specification language COLD-K. These theories model constraint propagation throughout VLSI designs. The theories are translated into the Refine environment and used to evaluate constraints in the COMET co-synthesis environment.
   role: ms
-
