@@ -57,19 +57,19 @@
   role: phd    
 
 - name: Dr. Nick Frisby
-  description: Languages for embedded system design and synthesis; monadic and comonadic interpreters.
+  description: Reducing the Cost of Precise Types - Developed a technique for automatically synthesizing precise types for interfaces between stages in language processors.  The technique enables composing strongly typed language processing components into compilers and interpreters.
   role: phd  	
 
 - name: Dr. Mark Snyder
-  description: Type system formalization; type checking; and dependent type systems.
+  description: Type Directoed Specification Refinement - Developed techniques for advanced type checking for dependently type Rosetta specifications.  Rosetta typechecking for dependent types describe partial correcntess that in turn guides refinement of specifications towards fully checkable types.
   role: phd  	
 
 - name: Dr. Jennifer Streb
-  description: Abstract interpretation; monadic, composable interpreters; and simulation.
+  description: A Methodology for Automated Verification of Rosetta Specification Transformations - Developed a theory for describing Rosetta specifications as a lattice of co-algebras.  The lattice supports transforming specifications from one domain to another using a Galois Connection as a basis for verifying transformations.
   role: phd  
 
 - name: Dr. Wesley Peck
-  description: Design space exploration using automated synthesis.  Starting with abstract Rosetta specifications, synthesized different implementations using alternative architectures and technologies.  The results allow exploration of design alternatives while maintaining abstraction in specifications.
+  description: Model Transformation for Hardware/Software Co-Design - Design space exploration using automated synthesis.  Starting with abstract Rosetta specifications, synthesized different implementations using alternative architectures and technologies.  The results allow exploration of design alternatives while maintaining abstraction in specifications.
   role: phd
 
 - name: Mark Snyder
