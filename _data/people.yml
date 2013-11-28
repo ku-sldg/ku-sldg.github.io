@@ -21,7 +21,7 @@
   role: student
 
 - name: Kayla Sale
-  description: Static analusis of species niche models using SAL
+  description: Static analysis of species niche models using SAL
   role: student
 
 - name: Dr. Phillip Baraona
@@ -41,7 +41,7 @@
   role: ms
 
 - name: Justin Ward
-  description: Polytypic Theorem Proving Framwork - The Prufrock (literary reference intended) polytypic theorem prover famework. Prufrock was developed to perform static anlaysis on Haskell and Rosetta source modules. It is a first-order theorem prover supporting rewriting and a proof scripting language.
+  description: Polytypic Theorem Proving Framework - The Prufrock (literary reference intended) polytypic theorem prover framework. Prufrock was developed to perform static analysis on Haskell and Rosetta source modules. It is a first-order theorem prover supporting rewriting and a proof scripting language.
   role: ug
 
 - name: Dr. Murali Rangarajan
@@ -68,13 +68,16 @@
   description: Abstract interpretation; monadic, composable interpreters; and simulation.
   role: phd  
 
+- name: Dr. Wesley Peck
+  description: Design space exploration using automated synthesis.  Starting with abstract Rosetta specifications, synthesized different implementations using alternative architectures and technologies.  The results allow exploration of design alternatives while maintaining abstraction in specifications.
+  role: phd
 
 - name: Mark Snyder
   description: Modular Type Checking for Rosetta - Defined and developed a type checking system for a subset of Rosetta specifications. Using InterpreterLib, the type checker is implemented as a collection of modular type checking components that are implemented independently.
   role: ms  
 
 - name: Philip Weaver
-  description: Reflective Metaprogramming in Rosetta - Defined and developed a staged interpreter for the reflective subset of the Rosetta specification language. Established the two-stage nature of Rosetta reflection and augmented the existing expression interpreter to handle quote and unquote terms in expressions.
+  description: Reflective Meta-programming in Rosetta - Defined and developed a staged interpreter for the reflective subset of the Rosetta specification language. Established the two-stage nature of Rosetta reflection and augmented the existing expression interpreter to handle quote and unquote terms in expressions.
   role: ms  
 
 - name: Kalpesh Zinjuwadia
