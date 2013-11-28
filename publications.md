@@ -7,11 +7,11 @@ title: Publications
 
 * Halling, B. and P. Alexander, "Verifying TPM Protocols Using a State
   Monad," submitted to The 19th International Symposium on Formal
-  Methods (FM'14), Singapore, May 14–16, 2014 
+  Methods (FM'14), Singapore, May 14-16, 2014 
 
 * Austin, E. and P. Alexander, "Stateless Higher-Order Logic with
   Quantified Types," International Conference on Interactive Theorem
-  Proving (ITP’13), LNCS 7998, Rennes, France, July 2013.
+  Proving (ITP'13), LNCS 7998, Rennes, France, July 2013.
 
 * Halling, B., and P. Alexander, "Verifying a Privacy CA Remote
   Attestation Protocol," NASA Formal Methods Conference (NFM'13), LNCS
@@ -27,7 +27,7 @@ title: Publications
   
 * Peck, M. and P. Alexander, "Rosetta Composition Semantics," in
   Progressions and Innovations in Model-Driven Software Engineering,
-  V. G. Díaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and
+  V. G. Diaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and
   O. S. Martinez, Editors, IGI Global, in press.
 
 * Kimmell, G., W. Peck, and P. Alexander, "System Development with
@@ -45,10 +45,10 @@ title: Publications
 
 * Austin, E., and P. Alexander, "HaskHOL: A Haskell Hosted Domain
   Specific Language Representation of HOL Light," Trends in Functional
-  Programming (TFP’10), Norman, OK, May 17-19, 2010. 
+  Programming (TFP'10), Norman, OK, May 17-19, 2010. 
 
-* Snyder, M., and P. Alexander, “Type-Indexed Monads,” Trends
-  in Functional Programming (TFP’10), Norman, OK, May 17-19, 2010.
+* Snyder, M., and P. Alexander, "Type-Indexed Monads," Trends
+  in Functional Programming (TFP'10), Norman, OK, May 17-19, 2010.
   
 * Kimmell, G., N. Frisby, P. Weaver, and P. Alexander,  "Constructing
   Language Processors with Algebra Combinators," Science of Computer
