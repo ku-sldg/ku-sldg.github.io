@@ -16,6 +16,12 @@
   description: "The objective of the Verified TPM project is to formally specify and verify critical properties of the TPM 1.2."
   sponsor: Battelle, DoD
 
+- name: HaskHOL
+  github: ecaustin
+  repo: haskol-core
+  description: "The objective of the HaskHOL project is developing a HOL-style theorem prover that can be used to verify Haskell programs in Haskell."
+  sponsor: DoD SMART Fellowship
+
 - name: Static Analysis of Niche Species Models
   github: ku-sldg
   repo: ibex13
