@@ -20,7 +20,7 @@
   sponsor: Battelle, DoD
 
 - name: HaskHOL
-  ghpages: no
+  ghpages:
   github: ecaustin
   repo: haskhol-core
   description: "The objective of the HaskHOL project is developing a HOL-style theorem prover that can be used to verify Haskell programs in Haskell."
