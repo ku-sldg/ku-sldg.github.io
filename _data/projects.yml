@@ -1,37 +1,41 @@
 - name: ArmoredSoftware
+  ghpages: yes
   github: armoredsoftware
   repo: 
   description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that peform appraisal, attestation and measurement."
   sponsor: DoD
 
 - name: ACHILLES
+  ghpages: yes
   github: ku-sldg
   repo: achilles13
   description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs.  This is joint work with Adventium Labs."
   sponsor: DARPA
 
 - name: Verified TPM
+  ghpages: yes
   github: ku-sldg
   repo: verified-tpm12
   description: "The objective of the Verified TPM project is to formally specify and verify critical properties of the TPM 1.2."
   sponsor: Battelle, DoD
 
 - name: HaskHOL
+  ghpages: no
   github: ecaustin
   repo: haskhol-core
   description: "The objective of the HaskHOL project is developing a HOL-style theorem prover that can be used to verify Haskell programs in Haskell."
   sponsor: DoD SMART Fellowship
 
 - name: Static Analysis of Niche Species Models
+  ghpages: yes
   github: ku-sldg
   repo: ibex13
   description: "The objective of the Niche Modeling static analysis project is to use model checking techniques to statically analyze species distribution models."
   sponsor: KU Initiative for Maximizing Student Diversity (IMSD)
 
 - name: Virtual Vector Laboratory
+  ghpages: yes
   github: ku-sldg
   repo: vector12
   description: "The objective of the Virtual Vector Laboratory is to develop techniques for autmoatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
   sponsor: KU Research Investment Council
-
-
