@@ -18,7 +18,7 @@
 
 - name: HaskHOL
   github: ecaustin
-  repo: haskol-core
+  repo: haskhol-core
   description: "The objective of the HaskHOL project is developing a HOL-style theorem prover that can be used to verify Haskell programs in Haskell."
   sponsor: DoD SMART Fellowship
 
