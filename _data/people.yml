@@ -16,9 +16,9 @@
   description: Verifying Haskell in Haskell using HaskHOL
   role: student
 
-- name: Brigid Halling
-  description: TPM 1.2 formal specification and verification
-  role: student
+- name: Adam Petz
+  description: Summer 2014
+  role: none
 
 - name: Kayla Sale
   description: Static analysis of species niche models using SAL
