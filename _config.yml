@@ -1,4 +1,5 @@
 baseurl: http://ku-sldg.github.io
+markdown: kramdown
 account: ku-sldg
 repo: ku-sldg
 title: System-Level Design Group
