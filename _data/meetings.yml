@@ -1,5 +1,9 @@
 - name: ArmoredSoftware
-  time: 10am Tuesday
+  time: 10:30am Tuesday
+  place: 208 Nichols
+
+- name: ACHILLES
+  time: 10:00am Thursday
   place: 208 Nichols
 
 - name: Lambda

@@ -17,11 +17,11 @@
   role: student
 
 - name: Bharath Elluru
-  description: Static analysis of machine configuration
+  description: Static and dynamic analysis of machine configuration
   role: student
 
 - name: Nelisha Mane
-  description: Static analysis of machine configuration
+  description: Static and dynamic analysis of machine configuration
   role: student
 
 - name: Adam Petz
