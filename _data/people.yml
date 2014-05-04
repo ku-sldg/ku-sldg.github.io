@@ -16,6 +16,14 @@
   description: Verifying Haskell in Haskell using HaskHOL
   role: student
 
+- name: Bharath Elluru
+  description: Static analysis of machine configuration
+  role: student
+
+- name: Nelisha Mane
+  description: Static analysis of machine configuration
+  role: student
+
 - name: Adam Petz
   description: Summer 2014
   role: none
