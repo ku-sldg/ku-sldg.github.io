@@ -4,25 +4,9 @@
   email: palexand@ku.edu
   web: http://www.ittc.ku.edu/~alex
 
-- name: Leon Searl
-  description: Research staff
-  role: staff
-
 - name: Ed Komp
   description: Research staff
   role: staff
-
-- name: Evan Austin
-  description: Verifying Haskell in Haskell using HaskHOL
-  role: student
-
-- name: Bharath Elluru
-  description: Static and dynamic analysis of machine configuration
-  role: student
-
-- name: Nelisha Mane
-  description: Static and dynamic analysis of machine configuration
-  role: student
 
 - name: Adam Petz
   description: Attestation protocols and trust establishment
@@ -30,10 +14,6 @@
 
 - name: Paul Kline
   description: Attestation protocols and trust establishment
-  role: student
-
-- name: Kayla Sale
-  description: Static analysis of species niche models using SAL
   role: student
 
 - name: Dr. Phillip Baraona
@@ -83,6 +63,14 @@
 - name: Dr. Wesley Peck
   description: Model Transformation for Hardware/Software Co-Design - Design space exploration using automated synthesis.  Starting with abstract Rosetta specifications, synthesized different implementations using alternative architectures and technologies.  The results allow exploration of design alternatives while maintaining abstraction in specifications.
   role: phd
+
+- name: Dr. Evan Austin
+  description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Starging with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
+  role: phd
+
+- name: Bharath Elleru
+  description: Measuring an Embedded Device - Developed a capabliity for cataloging software installed on a GUMSTIX embedded processor board.  Identifies installed software and determines what installation recipe it is associated with in an attempt to determine if it is legitimate or not.
+  rold: ms
 
 - name: Mark Snyder
   description: Modular Type Checking for Rosetta - Defined and developed a type checking system for a subset of Rosetta specifications. Using InterpreterLib, the type checker is implemented as a collection of modular type checking components that are implemented independently.
