@@ -9,11 +9,11 @@
   role: staff
 
 - name: Adam Petz
-  description: Attestation protocols and trust establishment
+  description: Defining semantics for verying attestation protocols.
   role: student
 
 - name: Paul Kline
-  description: Attestation protocols and trust establishment
+  description: Synthesis of attestation protocols from protocol requirements.
   role: student
 
 - name: Dr. Phillip Baraona
