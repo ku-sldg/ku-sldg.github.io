@@ -44,7 +44,7 @@
   description: Formal Semantics for Model-Based Specification - Defined a formal semantics for model-based specification and a denotation for the Rosetta specification language to that formalism. The system is based on using hidden algebras to represent abstract state allowing refinement in specification domains.
   role: phd  
 
-- name: Dr. Garrin Kimmel
+- name: Dr. Garrin Kimmell
   description: System Synthesis from a Monadic Functional Language - Defined a methodology for synthesizing globally asynchronous, locally synchronous (GALS) implementations in VHDL and C++ from a common, monadic specification. The specification language, called Oread, uses monadic constructs to represent various computational features.
   role: phd    
 
@@ -53,7 +53,7 @@
   role: phd  	
 
 - name: Dr. Mark Snyder
-  description: Type Directoed Specification Refinement - Developed techniques for advanced type checking for dependently type Rosetta specifications.  Rosetta typechecking for dependent types describe partial correcntess that in turn guides refinement of specifications towards fully checkable types.
+  description: Type Directed Specification Refinement - Developed techniques for advanced type checking for dependently type Rosetta specifications.  Rosetta type checking for dependent types describe partial correctness that in turn guides refinement of specifications towards fully checkable types.
   role: phd  	
 
 - name: Dr. Jennifer Streb
@@ -65,12 +65,16 @@
   role: phd
 
 - name: Dr. Evan Austin
-  description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Starging with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
+  description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Staring with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
   role: phd
 
+- name: Adam Petz
+  description: A Semantics for Attestation Protocols using Session Types in Coq - Developed an verified a semantics for protocols using session types.  Defined a small-step execution semantics for protocols typed using dependent session types.  Verified execution properties as well as duality among protocol pairs.
+  role: ms
+
 - name: Bharath Elleru
-  description: Measuring an Embedded Device - Developed a capabliity for cataloging software installed on a GUMSTIX embedded processor board.  Identifies installed software and determines what installation recipe it is associated with in an attempt to determine if it is legitimate or not.
-  rold: ms
+  description: Measuring an Embedded Device - Developed a capability for cataloging software installed on a GUMSTIX embedded processor board.  Identifies installed software and determines what installation recipe it is associated with in an attempt to determine if it is legitimate or not.
+  role: ms
 
 - name: Mark Snyder
   description: Modular Type Checking for Rosetta - Defined and developed a type checking system for a subset of Rosetta specifications. Using InterpreterLib, the type checker is implemented as a collection of modular type checking components that are implemented independently.
