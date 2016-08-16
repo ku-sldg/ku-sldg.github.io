@@ -1,14 +1,6 @@
-- name: ArmoredSoftware Team Meeting
-  time: 10:30am Tuesday
-  place: Executive Conference Room
-
-- name: ACHILLES Telecon
-  time: 10:35am Thursday
-  place: 208 Nichols
-  
-- name: ACHILLES Team Meeting
-  time: 10:00am Friday
-  place: 208 Nichols
+- name: SLDG Team Meeting
+  time: Time TBD
+  place: Place TBD
   
 - name: Lambda
   time: Time TBD
