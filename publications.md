@@ -5,41 +5,23 @@ title: Publications
 
 # Selected Publications
 
-* Halling, B. and P. Alexander, "Verifying TPM Protocols Using a State
-  Monad," submitted to The 19th International Symposium on Formal
-  Methods (FM'14), Singapore, May 14-16, 2014 
+* Alexander, P., L. Pike, P. Loscocco, and G. Coker, "Model Checking Distributed Mandatory Access Control Policies," *ACM Transactions on Information and System Security (TISSEC)*, **18**(2), 2015.
 
-* Austin, E. and P. Alexander, "Stateless Higher-Order Logic with
-  Quantified Types," International Conference on Interactive Theorem
-  Proving (ITP'13), LNCS 7998, Rennes, France, July 2013.
+* Austin, E. and P. Alexander, "Stateless Higher-Order Logic with Quantified Types," International Conference on Interactive Theorem Proving (ITP'13), LNCS 7998, Rennes, France, July 2013.
 
-* Halling, B., and P. Alexander, "Verifying a Privacy CA Remote
-  Attestation Protocol," NASA Formal Methods Conference (NFM'13), LNCS
-  7871, Mountain View, CA, May 2013.
+* Halling, B., and P. Alexander, "Verifying a Privacy CA RemoteAttestation Protocol," NASA Formal Methods Conference (NFM'13), LNCS 7871, Mountain View, CA, May 2013.
 
-* Frisby, N., A. Gill and P. Alexander, "A Pattern for Almost
-  Homomorphic Functions," The ACM SIGPLAN Workshop on Generic
-  Programming (WGP'12), Copenhagen, Denmark, September 9-10, 2012. 
+* Frisby, N., A. Gill and P. Alexander, "A Pattern for AlmostHomomorphic Functions," The ACM SIGPLAN Workshop on Generic Programming (WGP'12), Copenhagen, Denmark, September 9-10, 2012. 
   
-* Haricombe, L. J., L. A. Emmett, and P. Alexander, "Open Access: An
-  Evolving Alternative," IEEE Computer, 45(8), August 2012,
-  pp. 70-72.
+* Haricombe, L. J., L. A. Emmett, and P. Alexander, "Open Access: An Evolving Alternative," IEEE Computer, 45(8), August 2012, pp. 70-72.
   
-* Peck, M. and P. Alexander, "Rosetta Composition Semantics," in
-  Progressions and Innovations in Model-Driven Software Engineering,
-  V. G. Diaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and
-  O. S. Martinez, Editors, IGI Global, in press.
+* Peck, M. and P. Alexander, "Rosetta Composition Semantics," in Progressions and Innovations in Model-Driven Software Engineering, V. G. Diaz, J. M. C. Lovelle, B. C. P. Garcia-Bustelo, and O. S. Martinez, Editors, IGI Global, in press.
 
-* Kimmell, G., W. Peck, and P. Alexander, "System Development with
-  Oread," 2011 Symposium on Implementation and Application of
-  Functional Langauges (IFL'11), Lawrence, KS, 2011.
+* Kimmell, G., W. Peck, and P. Alexander, "System Development with Oread," 2011 Symposium on Implementation and Application of Functional Langauges (IFL'11), Lawrence, KS, 2011.
   
-* Austin, E., and P. Alexander, "Haskell + HOL = HaskHOL," 2011
-  Symposium on Implementation and Application of Functional Langauges
-  (IFL'11), Lawrence, KS, 2011. 
+* Austin, E., and P. Alexander, "Haskell + HOL = HaskHOL," 2011 Symposium on Implementation and Application of Functional Langauges (IFL'11), Lawrence, KS, 2011. 
 
-* Frisby, N., M. Peck, M. Snyder, P. Alexander, "Model Composition in
-  Rosetta," IEEE Engineering of Computer-Based Systems Symposium and
+* Frisby, N., M. Peck, M. Snyder, P. Alexander, "Model Composition in Rosetta," IEEE Engineering of Computer-Based Systems Symposium and
   Workshops, (ECBS'11), Las Vegas, NV, 2011. 
   2010
 
