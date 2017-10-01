@@ -9,13 +9,17 @@
   role: staff
 
 - name: Adam Petz
-  description: Defining semantics for verying attestation protocols.
+  description: Synthesis of attestation protocols from avidence descriptions.
   role: student
 
-- name: Paul Kline
-  description: Synthesis of attestation protocols from protocol requirements.
+- name: Tj Barclay
+  description: Undecided
   role: student
-  
+
+- name: Michael Neises
+  description: Undecided
+  role: student
+
 - name: Odalis Hernandez
   description: Logic and formal verification
   role: student
