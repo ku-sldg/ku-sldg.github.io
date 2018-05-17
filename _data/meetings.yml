@@ -1,7 +1,20 @@
 - name: SLDG Team Meeting
-  time: Time TBD
-  place: Place TBD
+  time: Monday 3:00
+  place: Gemini Room
   
 - name: Lambda
-  time: Time TBD
-  place: Place TBD
+  time: Friday 4:00
+  place: Gemini Room
+  
+- name: StairCASE Telecon
+  time: Monday 11:00
+  place: 208 Nichols Hall
+  
+- name: Honeywell Telecon
+  time: Wednesday 10:00
+  place: 208 Nichols Hall
+  
+- name: Layered Attestation Telecon
+  time: Monday 2:00pm
+  place: 208 Nichols Hall
+  
