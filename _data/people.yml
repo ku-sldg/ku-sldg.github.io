@@ -9,7 +9,7 @@
   role: staff
 
 - name: Adam Petz
-  description: Synthesis of attestation protocols from avidence descriptions.
+  description: Synthesis of attestation protocols from evidence descriptions.
   role: student
 
 - name: Tj Barclay
@@ -20,8 +20,16 @@
   description: Undecided
   role: student
 
-- name: Odalis Hernandez
-  description: Logic and formal verification
+- name: Josiah Gray
+  description: Undecided
+  role: student
+
+- name: Sarah Scott
+  description: Undecided
+  role: student
+  
+- name: Grant Jurgensen
+  description: Undecided
   role: student
 
 - name: Dr. Phillip Baraona

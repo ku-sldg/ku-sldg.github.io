@@ -1,3 +1,28 @@
+- name: Scalable Trust Semantics and Infrastructure
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
+- name: StairCASE
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
+
+- name: Honeywell Additive Manufacturing Trest
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
+  sponsor: Honeywell FM&T
+
+- name: Honeywell Test Equipment Trust
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the Test Equipment Trust project is development of means for assuring trust in test equipment and protect secrets on compromised or misconfigured systems."
+  sponsor: Honeywell FM&T
+
 - name: ArmoredSoftware
   ghpages: yes
   github: armoredsoftware
