@@ -3,11 +3,14 @@
   github: ku-sldg
   repo:
   description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
+  sponsor: National Security Agency Science of Security Initiative
+
 - name: StairCASE
   ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
+  sponsor: Subcontract to Rockwell Collins under DARPA CASE
 
 - name: Honeywell Additive Manufacturing Trest
   ghpages:
@@ -26,7 +29,7 @@
 - name: ArmoredSoftware
   ghpages: yes
   github: armoredsoftware
-  repo: 
+  repo:
   description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that peform appraisal, attestation and measurement."
   sponsor: DoD
 

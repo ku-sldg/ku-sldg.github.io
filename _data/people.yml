@@ -1,5 +1,5 @@
 - name: Perry Alexander
-  description: Formal methods; trusted computing; design languages; semantics; system-level design; component retrieval; and test vector generation. 
+  description: Formal methods; trusted computing; design languages; semantics; system-level design; component retrieval; and test vector generation.
   role: faculty
   email: palexand@ku.edu
   web: http://www.ittc.ku.edu/~alex
@@ -27,25 +27,29 @@
 - name: Sarah Scott
   description: Undecided
   role: student
-  
+
 - name: Grant Jurgensen
+  description: Undecided
+  role: student
+
+- name: Anna Seib
   description: Undecided
   role: student
 
 - name: Dr. Phillip Baraona
   description: VSPEC Formal Semantics - The syntax and semantics of the VSPEC specification language are described. A transformation from single and multi-component specifications to Larch Shared Language specifications is defined to provide language syntax. Component specifications are defined using the canonical axiomatic style extended to represent component activation. Interconnected components are modeled using CSP to model control.
-  role: phd  
+  role: phd
 
 - name: Dr. John Penix
   description: Formal Component Retrieval and Architecture Representation - A technique for efficient, correct retrieval of components and a theory of architectures is presented. The component retrieval system combines faceted retrieval and specification matching. Facets are formally defined and extracted from component specifications using forward inference. Retrieval based on facets culls the solution space making specification matching feasible. Architecture theories are used to compose and adapt specifications.
-  role: phd    
+  role: phd
 
 - name: Megan Peck
   description: Rosetta Composition Semantics - Developed a formal semantics for Rosetta component composition.  Each Rosetta model assumes a co-algebraic semantics, thus composition becomes composition of co-algebras.
   role: ms
 
 - name: Brigid Halling
-  description: Towards a Formal Model of the TPM - Developed a formal model of the TPM v1.2 using PVS.  Command execution sequencing is done using a state monad to thread state through a command sequence.  
+  description: Towards a Formal Model of the TPM - Developed a formal model of the TPM v1.2 using PVS.  Command execution sequencing is done using a state monad to thread state through a command sequence.
   role: ms
 
 - name: Justin Ward
@@ -54,27 +58,27 @@
 
 - name: Dr. Murali Rangarajan
   description: VSPEC formal analysis using automatically generated proof obligations - Defined and implemented a methodology for automatically generating a discharging proof obligations from VSPEC specifications. The semantics of VSPEC were encoded in PVS and proof obligations to test several classes of interface errors generated. Automatic proof scripts are generated with the obligations to attempt automated verification.
-  role: phd  
+  role: phd
 
 - name: Dr. Cindy Kong
   description: Formal Semantics for Model-Based Specification - Defined a formal semantics for model-based specification and a denotation for the Rosetta specification language to that formalism. The system is based on using hidden algebras to represent abstract state allowing refinement in specification domains.
-  role: phd  
+  role: phd
 
 - name: Dr. Garrin Kimmell
   description: System Synthesis from a Monadic Functional Language - Defined a methodology for synthesizing globally asynchronous, locally synchronous (GALS) implementations in VHDL and C++ from a common, monadic specification. The specification language, called Oread, uses monadic constructs to represent various computational features.
-  role: phd    
+  role: phd
 
 - name: Dr. Nick Frisby
   description: Reducing the Cost of Precise Types - Developed a technique for automatically synthesizing precise types for interfaces between stages in language processors.  The technique enables composing strongly typed language processing components into compilers and interpreters.
-  role: phd  	
+  role: phd
 
 - name: Dr. Mark Snyder
   description: Type Directed Specification Refinement - Developed techniques for advanced type checking for dependently type Rosetta specifications.  Rosetta type checking for dependent types describe partial correctness that in turn guides refinement of specifications towards fully checkable types.
-  role: phd  	
+  role: phd
 
 - name: Dr. Jennifer Streb
   description: A Methodology for Automated Verification of Rosetta Specification Transformations - Developed a theory for describing Rosetta specifications as a lattice of co-algebras.  The lattice supports transforming specifications from one domain to another using a Galois Connection as a basis for verifying transformations.
-  role: phd  
+  role: phd
 
 - name: Dr. Wesley Peck
   description: Model Transformation for Hardware/Software Co-Design - Design space exploration using automated synthesis.  Starting with abstract Rosetta specifications, synthesized different implementations using alternative architectures and technologies.  The results allow exploration of design alternatives while maintaining abstraction in specifications.
@@ -94,18 +98,18 @@
 
 - name: Mark Snyder
   description: Modular Type Checking for Rosetta - Defined and developed a type checking system for a subset of Rosetta specifications. Using InterpreterLib, the type checker is implemented as a collection of modular type checking components that are implemented independently.
-  role: ms  
+  role: ms
 
 - name: Philip Weaver
   description: Reflective Meta-programming in Rosetta - Defined and developed a staged interpreter for the reflective subset of the Rosetta specification language. Established the two-stage nature of Rosetta reflection and augmented the existing expression interpreter to handle quote and unquote terms in expressions.
-  role: ms  
+  role: ms
 
 - name: Kalpesh Zinjuwadia
-  description: GENISYS Component Inversion System - Developed the GENISYS prototype for tracing inputs and outputs for system components back to system inputs and outputs. Generates hierarchies of components and inverts component function to determine desired system input for generating specific component inputs. 
+  description: GENISYS Component Inversion System - Developed the GENISYS prototype for tracing inputs and outputs for system components back to system inputs and outputs. Generates hierarchies of components and inverts component function to determine desired system input for generating specific component inputs.
   role: ms
 
 - name: Brandon Morel
-  description: SPARTACAS Component Retrieval and Adaptation - Developed the SPARTACAS component retrieval and adaptation building upon feature-based retrieval techniques. Implemented adaptation architectures for automatically performing black box adaptation on partially matching specifications. 
+  description: SPARTACAS Component Retrieval and Adaptation - Developed the SPARTACAS component retrieval and adaptation building upon feature-based retrieval techniques. Implemented adaptation architectures for automatically performing black box adaptation on partially matching specifications.
   role: ms
 
 - name: Krishna Ranganathan
@@ -121,7 +125,7 @@
   role: ms
 
 - name: Sarjoun Doumit
-  description: ActiveSPEC and ANSE usage environment using orbit - Developed a combined simulation and formal analysis environment based on the orbit/gravity subsystem. Translated a common graphical representation of active networks into both ANSE and ActiveSPEC representations. 
+  description: ActiveSPEC and ANSE usage environment using orbit - Developed a combined simulation and formal analysis environment based on the orbit/gravity subsystem. Translated a common graphical representation of active networks into both ANSE and ActiveSPEC representations.
   role: ms
 
 - name: Makarand Patil
