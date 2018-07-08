@@ -3,16 +3,7 @@ layout: frontpage
 title: SLDG
 ---
 
-The System Level Design Group is comprised of students and faculty
-investigating all aspects of systems level design at The University of
-Kansas Information and Telecommunications Technology Center. Advised
-by Dr. Perry Alexander, the group is engaged in several research
-projects including specification, verification and synthesis of
-complex systems, trusted computing, and system-level design. Each
-applies engineering methods and formal modeling to specific systems
-engineering activities. The System Level Design group is supported by
-The University of Kansas' Information and Telecommunication Technology
-Center's Computer Systems Design Laboratory. 
+The System Level Design Group is comprised of students and faculty investigating all aspects of systems level design at The University of Kansas Information and Telecommunications Technology Center. Advised by Dr. Perry Alexander, the group is engaged in several research projects including specification, verification and synthesis of complex systems, trusted computing, and system-level design. Each applies engineering methods and formal modeling to specific systems engineering activities. The System Level Design group is supported by The University of Kansas' Information and Telecommunication Technology Center's Computer Systems Design Laboratory.
 
 # Recent Activities
 
@@ -79,8 +70,7 @@ Center's Computer Systems Design Laboratory.
 {% endfor %}
 </ul>
 
-The System-Level Design Group is a part of The Information and
-Telecommunication Technology Center at The University of Kansas.
+The System-Level Design Group is a part of The Information and Telecommunication Technology Center at The University of Kansas.
 
 # Weekly Research Meetings
 
@@ -91,4 +81,3 @@ Telecommunication Technology Center at The University of Kansas.
 <li>{{ meeting.name }} - {{ meeting.time }} - {{ meeting.place }}</li>
 {% endfor %}
 </ul>
-
