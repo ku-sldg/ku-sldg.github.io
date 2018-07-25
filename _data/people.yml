@@ -88,8 +88,12 @@
   description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Staring with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
   role: phd
 
+- name: Paul Klein
+  description: Remote Attestation Protocol Verification with a Privacy Emphasis - Developed a form model for attestation protocol execution that accounts for privacy policy and mutual attestation.
+  role: ms
+
 - name: Adam Petz
-  description: A Semantics for Attestation Protocols using Session Types in Coq - Developed an verified a semantics for protocols using session types.  Defined a small-step execution semantics for protocols typed using dependent session types.  Verified execution properties as well as duality among protocol pairs.
+  description: A Semantics for Attestation Protocols using Session Types in Coq - Developed a verified a semantics for protocols using session types.  Defined a small-step execution semantics for protocols typed using dependent session types.  Verified execution properties as well as duality among protocol pairs.
   role: ms
 
 - name: Bharath Elleru
