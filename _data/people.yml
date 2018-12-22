@@ -9,11 +9,11 @@
   role: staff
 
 - name: Adam Petz
-  description: Synthesis of attestation protocols from evidence descriptions.
+  description: Synthesis of attestation protocols from evidence descriptions
   role: student
 
 - name: Tj Barclay
-  description: Undecided
+  description: Measurement semantics
   role: student
 
 - name: Michael Neises
@@ -21,18 +21,22 @@
   role: student
 
 - name: Josiah Gray
-  description: Undecided
+  description: TPM 2.0 Attestation protocols
   role: student
 
 - name: Sarah Scott
-  description: Undecided
+  description: APDT interpreter development
   role: student
 
 - name: Grant Jurgensen
-  description: Undecided
+  description: seL4/CAmkES prototyping
   role: student
 
 - name: Anna Seib
+  description: APDT interpreter development
+  role: student
+
+- name: Anna Fritz
   description: Undecided
   role: student
 
