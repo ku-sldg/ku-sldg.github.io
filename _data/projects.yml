@@ -12,19 +12,19 @@
   description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
   sponsor: Subcontract to Rockwell Collins under DARPA CASE
 
-- name: Honeywell Additive Manufacturing Trest
+- name: Additive Manufacturing Trest
   ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
-  sponsor: Honeywell FM&T
+  sponsor: Honeywell FM&T, NSF Scholarship for Service
 
-- name: Honeywell Test Equipment Trust
+- name: Test Equipment Trust
   ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the Test Equipment Trust project is development of means for assuring trust in test equipment and protect secrets on compromised or misconfigured systems."
-  sponsor: Honeywell FM&T
+  sponsor: Honeywell FM&T, NSF Scholarship for Service
 
 - name: ArmoredSoftware
   ghpages: yes
