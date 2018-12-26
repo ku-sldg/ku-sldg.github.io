@@ -3,7 +3,7 @@
   github: ku-sldg
   repo:
   description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
-  sponsor: National Security Agency Science of Security Initiative
+  sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
 
 - name: StairCASE
   ghpages:
