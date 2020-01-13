@@ -17,6 +17,7 @@
   github: ku-sldg
   repo:
   description: "The UBRI project is funded by a gift from Ripple to perform research on various aspects of blockchain and its applications.  We are working on projects including cataloging biodiversity data, establishing trust in blockchain infrastructure, using blockchain for distributed certification, IoT cloud privacy, and system resilience.  We are also working with The Spencer Art Museum and The Gunn Center for the Study of Science Fiction to explore interactions among lockchain and the arts."
+  sponsor: Ripple
 
 - name: Additive Manufacturing Trust
   ghpages:
