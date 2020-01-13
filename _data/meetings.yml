@@ -1,11 +1,11 @@
 - name: SLDG Team Meeting
-  time: Thursday 11:00
+  time: Monday 10:00
   place: Gemini Room
   
-- name: Lambda
-  time: Friday 3:00
+- name: SLDG Technical Meeting
+  time: Monday 11:00
   place: Gemini Room
-  
+
 - name: StairCASE Telecon
   time: Monday 11:00
   place: 208 Nichols Hall
@@ -16,4 +16,8 @@
   
 - name: Layered Attestation Telecon
   time: Monday 2:00pm
+  place: 208 Nichols Hall
+
+- name: VOLTA Telecon
+  time: Friday 1:00pm
   place: 208 Nichols Hall
