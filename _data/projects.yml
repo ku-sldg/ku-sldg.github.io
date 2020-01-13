@@ -12,7 +12,13 @@
   description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
   sponsor: Subcontract to Rockwell Collins under DARPA CASE
 
-- name: Additive Manufacturing Trest
+- name: University Blockchain Research Initiative
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The UBRI project is funded by a gift from Ripple to perform research on various aspects of blockchain and its applications.  We are working on projects including cataloging biodiversity data, establishing trust in blockchain infrastructure, using blockchain for distributed certification, IoT cloud privacy, and system resilience.  We are also working with The Spencer Art Museum and The Gunn Center for the Study of Science Fiction to explore interactions among lockchain and the arts."
+
+- name: Additive Manufacturing Trust
   ghpages:
   github: ku-sldg
   repo:
@@ -26,11 +32,18 @@
   description: "The objective of the Test Equipment Trust project is development of means for assuring trust in test equipment and protect secrets on compromised or misconfigured systems."
   sponsor: Honeywell FM&T, NSF Scholarship for Service
 
+- name: VOLTA
+  ghpages:'
+  github: ku-sldg
+  repo:
+  description: "The objective of the VOLTA project is developing capabilities for characterizing devices.  We adapt remote attestation techniques to examine device interfaces with the intent of identifying services available on a device.  This project is a subcontract with Adventium Labs."
+  sponsor: Subcontract to Adventium Labs under Air Force Research Laboratory
+
 - name: ArmoredSoftware
   ghpages: yes
   github: armoredsoftware
   repo:
-  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that peform appraisal, attestation and measurement."
+  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement."
   sponsor: DoD
 
 - name: ACHILLES
@@ -65,5 +78,5 @@
   ghpages: yes
   github: ku-sldg
   repo: vector12
-  description: "The objective of the Virtual Vector Laboratory is to develop techniques for autmoatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
+  description: "The objective of the Virtual Vector Laboratory is to develop techniques for automatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
   sponsor: KU Research Investment Council
