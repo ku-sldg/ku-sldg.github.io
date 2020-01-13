@@ -34,7 +34,7 @@
   sponsor: Honeywell FM&T, NSF Scholarship for Service
 
 - name: VOLTA
-  ghpages:'
+  ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the VOLTA project is developing capabilities for characterizing devices.  We adapt remote attestation techniques to examine device interfaces with the intent of identifying services available on a device.  This project is a subcontract with Adventium Labs."
