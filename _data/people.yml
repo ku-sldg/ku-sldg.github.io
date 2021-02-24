@@ -20,10 +20,6 @@
   description: Undecided
   role: student
 
-- name: Josiah Gray
-  description: TPM 2.0 Attestation protocols
-  role: student
-
 - name: Sarah Scott
   description: APDT interpreter development
   role: student
@@ -91,6 +87,10 @@
 - name: Dr. Evan Austin
   description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Staring with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
   role: phd
+
+- name: Josiah Gray
+  description: Implementing TPM Commands In the Copland Remote Attestation Language - Extended Copland to include commands that access a TPM 2.0 using the Microsoft Trusted Software Stack (TSS).
+  role: ms
 
 - name: Paul Klein
   description: Remote Attestation Protocol Verification with a Privacy Emphasis - Developed a form model for attestation protocol execution that accounts for privacy policy and mutual attestation.
