@@ -5,6 +5,25 @@ title: Publications
 
 # Selected Publications
 
+* Petz, A. and P. Alexader, "An Infrastructure for Faithful Execution
+  of Remote Attestation Protocols," *NASA Formal Methods Symposium
+  (NFM'21)*, May 24-28, Norfolk, VA.
+
+* Petz, A. and P. Alexander, “A Copland Attestation Manager,” *Hot
+  Topics in Science of Security (HoTSoS’19)*, Nashville, TN, April
+  8-11 2019. 
+
+* Ramsdell, J., P. D. Rowe, P. Alexander, S. Helble, P. Loscocco,
+  J. A. Pendergrass, and A. Petz, “Orchestrating Layered
+  Attestations,” *Principles of Security and Trust (POST’19)*,
+  Prague, Czech Republic, April 8-11, 2019. 
+
+* Borck, H., P. Kline, H. Shackleton, J. Gohde, S. Johnston,
+  P. Alexander, and T. Carpenter, “100 Years of Software – Adapting
+  Cyber-Physical Systems to the Changing World,” *Software Engineering
+  for Resilient Systems (SERENE’17)*, Geneva, Switzerland, September
+  4-5, 2017. 
+
 * Alexander, P., L. Pike, P. Loscocco, and G. Coker, "Model Checking Distributed Mandatory Access Control Policies," *ACM Transactions on Information and System Security (TISSEC)*, **18**(2), 2015.
 
 * Austin, E. and P. Alexander, "Stateless Higher-Order Logic with Quantified Types," International Conference on Interactive Theorem Proving (ITP'13), LNCS 7998, Rennes, France, July 2013.
