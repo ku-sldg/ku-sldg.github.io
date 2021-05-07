@@ -88,6 +88,10 @@
   description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Staring with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
   role: phd
 
+- name: Anna Fritz
+  description: Type Dependent Policy Language - Using dependent types to statically enforce privacy policy during attestation protocol negotiation.
+  role: ms
+
 - name: Josiah Gray
   description: Implementing TPM Commands In the Copland Remote Attestation Language - Extended Copland to include commands that access a TPM 2.0 using the Microsoft Trusted Software Stack (TSS).
   role: ms
