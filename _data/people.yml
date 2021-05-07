@@ -17,11 +17,11 @@
   role: student
 
 - name: Michael Neises
-  description: Undecided
+  description: Measurement using contextual inspection
   role: student
 
 - name: Sarah Scott
-  description: APDT interpreter development
+  description: Undecided
   role: student
 
 - name: Grant Jurgensen
@@ -29,11 +29,11 @@
   role: student
 
 - name: Anna Seib
-  description: APDT interpreter development
+  description: Automated protocol discovery
   role: student
 
 - name: Anna Fritz
-  description: Undecided
+  description: Attestation protocol negotiation
   role: student
 
 - name: Dr. Phillip Baraona
