@@ -16,6 +16,20 @@ title: People
 {% endfor %}
 </ul>
 
+# Research Staff
+
+-----
+
+<ul>
+{% for person in site.data.people %}
+{% if person.role == "staff" %}
+<li><strong>{{ person.name }}</strong> - {{ person.description }}</li>
+{% else %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
 # Students
 
 -----
