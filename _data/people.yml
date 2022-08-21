@@ -9,7 +9,11 @@
   role: staff
 
 - name: Adam Petz
-  description: Synthesis of attestation protocols from evidence descriptions
+  description: Research Assistant Professor
+  role: staff
+
+- name: Jennifer Lohoefener
+  description: Research Assistant Professor
   role: staff
 
 - name: Tj Barclay
