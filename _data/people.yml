@@ -10,7 +10,7 @@
 
 - name: Adam Petz
   description: Synthesis of attestation protocols from evidence descriptions
-  role: student
+  role: staff
 
 - name: Tj Barclay
   description: Measurement semantics
@@ -24,16 +24,24 @@
   description: Undecided
   role: student
 
-- name: Grant Jurgensen
-  description: seL4/CAmkES prototyping
-  role: student
-
 - name: Anna Seib
   description: Automated protocol discovery
   role: student
 
 - name: Anna Fritz
   description: Attestation protocol negotiation
+  role: student
+
+- name: Will Thomas
+  description: Specification and verification
+  role: student
+
+- name: Garrett Mills
+  description: UAS verification framework
+  role: student
+
+- name: Peter Westbrook
+  description: Galois Connection modeling
   role: student
 
 - name: Dr. Phillip Baraona
@@ -87,6 +95,15 @@
 - name: Dr. Evan Austin
   description: Theorem Provers as Libraries – An Approach to Formally Verifying Functional Programs - Developed an LCF-style theorem proving system in Haskell.  Staring with HOL-Lite as a model, developed a set of libraries that implement a DSL for theorem proving over the Haskell Core.  The result is a capability supporting verification of Haskell programs in Haskell.
   role: phd
+
+- name: Dr. Adam Petz
+  description: Formally Veriﬁed Bundling and Appraisal of Layered Attestation Protocols  - Designed, implemented, and verified a collection of software components that provide a sound infrastructure for remote attestation of layered systems.
+  role: phd
+
+
+- name: Grant Jurgensen
+  description: seL4 Attestation Architecture - Designed and verified boot for an attestation architecture built upon the seL4 infrastructure.
+  role: ms
 
 - name: Anna Fritz
   description: Type Dependent Policy Language - Using dependent types to statically enforce privacy policy during attestation protocol negotiation.
