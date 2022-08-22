@@ -36,6 +36,10 @@
   description: Attestation protocol negotiation
   role: student
 
+- name: Drew Cousino
+  description: Health Records and Blockchain
+  role: student
+
 - name: Will Thomas
   description: Specification and verification
   role: student
