@@ -36,20 +36,8 @@
   description: Attestation protocol negotiation
   role: student
 
-- name: Drew Cousino
-  description: Health Records and Blockchain
-  role: student
-
 - name: Will Thomas
-  description: Specification and verification
-  role: student
-
-- name: Garrett Mills
-  description: UAS verification framework
-  role: student
-
-- name: Peter Westbrook
-  description: Galois Connection modeling
+  description: Attestation Manifest Compiler
   role: student
 
 - name: Dr. Phillip Baraona
@@ -108,6 +96,13 @@
   description: Formally Veriﬁed Bundling and Appraisal of Layered Attestation Protocols  - Designed, implemented, and verified a collection of software components that provide a sound infrastructure for remote attestation of layered systems.
   role: phd
 
+- name: Sarah Johnson
+  description: Formal Analysis of TPM Key Certification Protocols - Developed and verified an abstract model for two TPM 2.0 key certification protocols.
+  role: ms
+
+- name: Drew Cousino
+  description: Health Records and Blockchain - Designed and verified a mechanism for storing and retrieving attestation data on the Etherium blockchain.
+  role: ms
 
 - name: Grant Jurgensen
   description: seL4 Attestation Architecture - Designed and verified boot for an attestation architecture built upon the seL4 infrastructure.
