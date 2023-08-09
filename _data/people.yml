@@ -10,11 +10,11 @@
 
 - name: Adam Petz
   description: Research Assistant Professor
-  role: staff
+  role: faculty
 
 - name: Jennifer Lohoefener
   description: Research Assistant Professor
-  role: staff
+  role: faculty
 
 - name: Tj Barclay
   description: Verified Coq to CakeML Synthesis
