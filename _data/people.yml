@@ -12,6 +12,10 @@
   description: Research Assistant Professor
   role: staff
 
+- name: Jennifer Lohoefener
+  description: Research Assistant Professor
+  role: staff
+
 - name: Tj Barclay
   description: Verified Coq to CakeML Synthesis
   role: student
@@ -20,7 +24,7 @@
   description: Measurement using contextual inspection
   role: student
 
-- name: Sarah Scott
+- name: Sarah Johnson
   description: TPM Protocol Modeling
   role: student
 
@@ -28,9 +32,13 @@
   description: Attestation protocol negotiation
   role: student
 
+- name: Will Thomas
+  description: Attestation Manifest Compiler
+  role: student
+
 - name: Logan Schmalz
   description: Formal Verification
-  role: student
+  rold: student
 
 - name: Dr. Phillip Baraona
   description: VSPEC Formal Semantics - The syntax and semantics of the VSPEC specification language are described. A transformation from single and multi-component specifications to Larch Shared Language specifications is defined to provide language syntax. Component specifications are defined using the canonical axiomatic style extended to represent component activation. Interconnected components are modeled using CSP to model control.
@@ -94,6 +102,19 @@
 
 - name: Grant Jurgensen
   description: seL4 Attestation Architecture - Modeling, verifying, and implementation of a seL4-based attestation architecture.
+  role: ms
+
+- name: Sarah Johnson
+  description: Formal Analysis of TPM Key Certification Protocols - Developed and verified an abstract model for two TPM 2.0 key certification protocols.
+  role: ms
+
+- name: Drew Cousino
+  description: Health Records and Blockchain - Designed and verified a mechanism for storing and retrieving attestation data on the Etherium blockchain.
+  role: ms
+
+- name: Grant Jurgensen
+  description: seL4 Attestation Architecture - Designed and verified boot for an attestation architecture built upon the seL4 infrastructure.
+>>>>>>> 0d4cb0cf07f0f6e01d5dd4e0aba1d11596c4da70
   role: ms
 
 - name: Anna Fritz
