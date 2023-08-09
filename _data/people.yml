@@ -38,7 +38,7 @@
 
 - name: Logan Schmalz
   description: Formal Verification
-  rold: student
+  role: student
 
 - name: Dr. Phillip Baraona
   description: VSPEC Formal Semantics - The syntax and semantics of the VSPEC specification language are described. A transformation from single and multi-component specifications to Larch Shared Language specifications is defined to provide language syntax. Component specifications are defined using the canonical axiomatic style extended to represent component activation. Interconnected components are modeled using CSP to model control.
