@@ -1,19 +1,15 @@
 - name: SLDG Team Meeting
-  time: Monday 10:00
+  time: Monday 10:00am
   place: Executive Conference Room
   
-- name: StairCASE Telecon
-  time: Monday 11:00
-  place: 208 Nichols Hall
-  
-- name: Honeywell Telecon
-  time: Wednesday 9:00
-  place: 208 Nichols Hall
-  
-- name: Layered Attestation Telecon
-  time: Monday 2:00pm
-  place: 208 Nichols Hall
+- name: Collins <> KU 
+  time: Monday 11:00am
+  place: Teams
 
 - name: Lambda Reading Group
-  time: Friday 10:00am
+  time: Tuesday 2:00pm
   place: Executive Conference Room
+
+- name: Layered Attestation
+  time: Monday 2:00pm
+  place: Teams
