@@ -1,83 +1,34 @@
-- name: Scalable Trust Semantics and Infrastructure
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The objective of the Scalable Trust Semantics and Infrastructure project is development of a semantics for measurement along with a collection of tools that implement that semantics."
-  sponsor: NSA Science of Security initiative contract #H98230-18-D-0009
-
-- name: StairCASE
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The objective of the DARPA StairCASE effort is to develop semantics and tools for integrating remote attestation with static analysis and develop formally verified and synthesized remote attestation infrastructure."
-  sponsor: Subcontract to Rockwell Collins under DARPA CASE
-
-- name: University Blockchain Research Initiative
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The UBRI project is funded by a gift from Ripple to perform research on various aspects of blockchain and its applications.  We are working on projects including cataloging biodiversity data, establishing trust in blockchain infrastructure, using blockchain for distributed certification, IoT cloud privacy, and system resilience.  We are also working with The Spencer Art Museum and The Gunn Center for the Study of Science Fiction to explore interactions among lockchain and the arts."
-  sponsor: Ripple
-
-- name: Additive Manufacturing Trust
+- name: Honeywell Additive Manufacturing Trust
   ghpages:
   github: ku-sldg
   repo:
   description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
-  sponsor: Honeywell FM&T, NSF Scholarship for Service
+  sponsor: Kansas City National Security Campus
 
-- name: Test Equipment Trust
+- name: University Blockchain Research Initiative (UBRI)
   ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the Test Equipment Trust project is development of means for assuring trust in test equipment and protect secrets on compromised or misconfigured systems."
-  sponsor: Honeywell FM&T, NSF Scholarship for Service
+  description: "KU ITTC is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
+  sponsor: Ripple UBRI
 
-- name: VOLTA
+- name: FAA A58
   ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the VOLTA project is developing capabilities for characterizing devices.  We adapt remote attestation techniques to examine device interfaces with the intent of identifying services available on a device.  This project is a subcontract with Adventium Labs."
-  sponsor: Subcontract to Adventium Labs under Air Force Research Laboratory
+  description: "FAA A58 is tasked with establishing the need for a UAS cybersecurity framework.  Working with Drexel University and Oregon State University we are exploring cybersecurity issues that make UAS systems different than traditional piloted systems.  We will develop a framework for cybersecurity assessment informed by those differences."
+  sponsor: Federal Aviation Agency (FAA) ASSURE Program
 
-- name: ArmoredSoftware
-  ghpages: yes
-  github: armoredsoftware
-  repo:
-  description: "The objective of ArmoredSoftware is development of trustworthy cloud applications that perform appraisal, attestation and measurement."
-  sponsor: DoD
-
-- name: ACHILLES
-  ghpages: yes
-  github: ku-sldg
-  repo: achilles13
-  description: "The objective of ACHILLES is defining malice in networked, embedded devices such as printers and MFDs.  This is joint work with Adventium Labs."
-  sponsor: DARPA
-
-- name: Verified TPM
-  ghpages: yes
-  github: ku-sldg
-  repo: verified-tpm12
-  description: "The objective of the Verified TPM project is to formally specify and verify critical properties of the TPM 1.2."
-  sponsor: Battelle, DoD
-
-- name: HaskHOL
+- name: Lifecycle Attestation
   ghpages:
-  github: ecaustin
-  repo: haskhol-core
-  description: "The objective of the HaskHOL project is developing a HOL-style theorem prover that can be used to verify Haskell programs in Haskell."
-  sponsor: DoD SMART Fellowship
-
-- name: Static Analysis of Niche Species Models
-  ghpages: yes
   github: ku-sldg
-  repo: ibex13
-  description: "The objective of the Niche Modeling static analysis project is to use model checking techniques to statically analyze species distribution models."
-  sponsor: KU Initiative for Maximizing Student Diversity (IMSD)
+  repo:
+  description: "The objective of the DARPA Lifecycle Attestation program is investigating application of remote attestation techniques across the design lifecycle."
+  sponsor: DARPA I2O seedling, Collins Aerospace industry prime
 
-- name: Virtual Vector Laboratory
-  ghpages: yes
+- name: Programming Langauges in Haskell
   github: ku-sldg
-  repo: vector12
-  description: "The objective of the Virtual Vector Laboratory is to develop techniques for automatically recognizing insect carriers of human diseases.  This is joint work with The KU Biodiversity Institute and Spencer Museum of Art."
-  sponsor: KU Research Investment Council
+  repo: plih
+  description: "The objective of PLIH is development of an online textbook in support of teaching programming languages in Haskell.  The repo is currently private and will be opened up in January 2017. If you are interesting in playing before that, drop me a line. The text will be free for anyone who wants to use it."
+  sponsor: None
+
