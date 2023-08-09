@@ -96,25 +96,16 @@
   description: Formally Verified Bundling and Appraisal of Layered Attestation Protocols -  Formally defined and verified the Copland Compiler and Copland Virtual Machine for executing Copland protocols to produce evidence.  Artifacts are implemented as monadic, functional programs in the Coq proof assistant and verified with respect to a Copland reference semantics that characterizes attestation-relevant event traces and cryptographic evidence shapes.  Appraisal soundness is positioned within a novel end-to-end workflow that leverages formal properties of the attestation components to discharge assumptions about honest Copland participants.
   role: phd
 
-- name: Sarah Johnson
-  description: Provisioning of TPM DevID Certification - Using Coq to model and verify the provisioning protocols for TPM Initial and Local Device Identifiers.
-  role: ms
-
 - name: Grant Jurgensen
   description: seL4 Attestation Architecture - Modeling, verifying, and implementation of a seL4-based attestation architecture.
-  role: ms
-
-- name: Sarah Johnson
-  description: Formal Analysis of TPM Key Certification Protocols - Developed and verified an abstract model for two TPM 2.0 key certification protocols.
   role: ms
 
 - name: Drew Cousino
   description: Health Records and Blockchain - Designed and verified a mechanism for storing and retrieving attestation data on the Etherium blockchain.
   role: ms
 
-- name: Grant Jurgensen
-  description: seL4 Attestation Architecture - Designed and verified boot for an attestation architecture built upon the seL4 infrastructure.
->>>>>>> 0d4cb0cf07f0f6e01d5dd4e0aba1d11596c4da70
+- name: Sarah Johnson
+  description: Provisioning of TPM DevID Certification - Using Coq to model and verify the provisioning protocols for TPM Initial and Local Device Identifiers.
   role: ms
 
 - name: Anna Fritz
