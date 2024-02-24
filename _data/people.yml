@@ -21,23 +21,27 @@
   role: student
 
 - name: Michael Neises
-  description: Measurement using contextual inspection
+  description: Measurement Using Contextual Inspection
   role: student
 
 - name: Sarah Johnson
-  description: TPM Protocol Modeling
-  role: student
-
-- name: Anna Fritz
-  description: Attestation protocol negotiation
+  description: Attestation Evidence Semantics
   role: student
 
 - name: Will Thomas
-  description: Attestation Manifest Compiler
+  description: Attestation Evidence Semantics
   role: student
 
 - name: Logan Schmalz
-  description: Formal Verification
+  description: Verified Attestation Manager DevID Establishment
+  role: student
+
+- name: Brynn Hare
+  description: Undergradate Research
+  role: student
+
+- name: Katelyn Accola
+  description: Undergradate Research
   role: student
 
 - name: Dr. Phillip Baraona
@@ -94,6 +98,10 @@
 
 - name: Dr. Adam Petz
   description: Formally Verified Bundling and Appraisal of Layered Attestation Protocols -  Formally defined and verified the Copland Compiler and Copland Virtual Machine for executing Copland protocols to produce evidence.  Artifacts are implemented as monadic, functional programs in the Coq proof assistant and verified with respect to a Copland reference semantics that characterizes attestation-relevant event traces and cryptographic evidence shapes.  Appraisal soundness is positioned within a novel end-to-end workflow that leverages formal properties of the attestation components to discharge assumptions about honest Copland participants.
+  role: phd
+
+- name: Anna Fritz
+  description: A Formally Verified Infrastructure for Negotiating Remote Attestation ProtocolsAttestation Protocol Negotiation - Formall defined a negotiation strategy and ordering for Copland protocols. Defined and verified decidability of a static semantics for protocol executability and policy adherence.  Defined and demonstrated an ordering over protocols based on attack graph comparison using Chase and Coq.
   role: phd
 
 - name: Grant Jurgensen
