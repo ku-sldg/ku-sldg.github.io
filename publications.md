@@ -5,6 +5,11 @@ title: Publications
 
 # Selected Publications
 
+* Petz, A., W. Thomas, A. Fritz, T. Barclay, L. Schmalz, and P. Alexander,
+  ``Verified Configuration and Deployment of Layered Attestation Managers,''
+  _22nd International Conference on Software Engineering and Formal
+  Methods (SEFM'24)_, November 4-8, 2024, Aveiro, Portugal.
+
 * Fritz, A. and P. Alexander, “Policy-based Attestation Protocol
   Negotiation,” _NASA Formal Methods Symposium (NFM’23)_, Houston, TX,
   May 16-18, 2023.
