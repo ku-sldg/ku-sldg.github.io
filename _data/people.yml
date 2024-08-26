@@ -1,5 +1,5 @@
 - name: Perry Alexander
-  description: Formal methods; trusted computing; design languages; semantics; system-level design; component retrieval; and test vector generation.
+  description: Formal methods; trusted computing; design languages; langauge semantics; system-level design.
   role: faculty
   email: palexand@ku.edu
   web: http://www.ittc.ku.edu/~alex
@@ -36,9 +36,13 @@
   description: Verified Attestation Manager DevID Establishment
   role: student
 
-- name: Brynn Hare
-  description: Undergradate Research
+- name: Ian Harris
+  description: Undecided
   role: student
+
+- name: Jack Reynolds
+  description: Undecided
+  rule: student
 
 - name: Katelyn Accola
   description: Undergradate Research
