@@ -1,5 +1,5 @@
 - name: Perry Alexander
-  description: Formal methods; trusted computing; design languages; semantics; system-level design; component retrieval; and test vector generation.
+  description: Formal methods; trusted computing; design languages; langauge semantics; system-level design.
   role: faculty
   email: palexand@ku.edu
   web: http://www.ittc.ku.edu/~alex
@@ -20,20 +20,35 @@
   description: Verified Coq to CakeML Synthesis
   role: student
 
-- name: Sarah Johnson
-  description: TPM Protocol Modeling
+<<<<<<< HEAD
+=======
+- name: Michael Neises
+  description: Measurement Using Contextual Inspection
   role: student
 
-- name: Anna Fritz
-  description: Attestation protocol negotiation
+>>>>>>> 5bb678eb87e39133f18462547d64836c41d282c9
+- name: Sarah Johnson
+  description: Attestation Evidence Semantics
   role: student
 
 - name: Will Thomas
-  description: Attestation Manifest Compiler
+  description: Attestation Evidence Semantics
   role: student
 
 - name: Logan Schmalz
-  description: Formal Verification
+  description: Verified Attestation Manager DevID Establishment
+  role: student
+
+- name: Ian Harris
+  description: Undecided
+  role: student
+
+- name: Jack Reynolds
+  description: Undecided
+  rule: student
+
+- name: Katelyn Accola
+  description: Undergradate Research
   role: student
 
 - name: Dr. Phillip Baraona
@@ -94,6 +109,9 @@
 
 - name: Michael Neises
   description: Verification-Enabled Runtime Integrity Attestation of Linux (VERIAL)- Runtime attestation is a way to gain confidence in the current state of a remote target. Layered attestation is a way of extending that confidence from one component to another. Introspective solutions for layered attestation require strict isolation. The seL4 is uniquely well-suited to offer kernel properties sufficient to achieve such isolation. We design, implement, and evaluate introspective measurements and the layered runtime attestation of a Linux kernel hosted by the seL4. VERIAL can detect diamorphine-style rootkits with performance cost comparable to previous work.
+
+- name: Anna Fritz
+  description: A Formally Verified Infrastructure for Negotiating Remote Attestation ProtocolsAttestation Protocol Negotiation - Formall defined a negotiation strategy and ordering for Copland protocols. Defined and verified decidability of a static semantics for protocol executability and policy adherence.  Defined and demonstrated an ordering over protocols based on attack graph comparison using Chase and Coq.
   role: phd
 
 - name: Grant Jurgensen
