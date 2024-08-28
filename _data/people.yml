@@ -20,10 +20,6 @@
   description: Verified Coq to CakeML Synthesis
   role: student
 
-- name: Michael Neises
-  description: Measurement using contextual inspection
-  role: student
-
 - name: Sarah Johnson
   description: TPM Protocol Modeling
   role: student
@@ -94,6 +90,10 @@
 
 - name: Dr. Adam Petz
   description: Formally Verified Bundling and Appraisal of Layered Attestation Protocols -  Formally defined and verified the Copland Compiler and Copland Virtual Machine for executing Copland protocols to produce evidence.  Artifacts are implemented as monadic, functional programs in the Coq proof assistant and verified with respect to a Copland reference semantics that characterizes attestation-relevant event traces and cryptographic evidence shapes.  Appraisal soundness is positioned within a novel end-to-end workflow that leverages formal properties of the attestation components to discharge assumptions about honest Copland participants.
+  role: phd
+
+- name: Michael Neises
+  description: Verification-Enabled Runtime Integrity Attestation of Linux (VERIAL)- Runtime attestation is a way to gain confidence in the current state of a remote target. Layered attestation is a way of extending that confidence from one component to another. Introspective solutions for layered attestation require strict isolation. The seL4 is uniquely well-suited to offer kernel properties sufficient to achieve such isolation. We design, implement, and evaluate introspective measurements and the layered runtime attestation of a Linux kernel hosted by the seL4. VERIAL can detect diamorphine-style rootkits with performance cost comparable to previous work.
   role: phd
 
 - name: Grant Jurgensen
