@@ -104,7 +104,7 @@
   description: Formally Verified Bundling and Appraisal of Layered Attestation Protocols -  Formally defined and verified the Copland Compiler and Copland Virtual Machine for executing Copland protocols to produce evidence.  Artifacts are implemented as monadic, functional programs in the Coq proof assistant and verified with respect to a Copland reference semantics that characterizes attestation-relevant event traces and cryptographic evidence shapes.  Appraisal soundness is positioned within a novel end-to-end workflow that leverages formal properties of the attestation components to discharge assumptions about honest Copland participants.
   role: phd
 
-- name: Anna Fritz
+- name: Dr. Anna Fritz
   description: A Formally Verified Infrastructure for Negotiating Remote Attestation ProtocolsAttestation Protocol Negotiation - Formall defined a negotiation strategy and ordering for Copland protocols. Defined and verified decidability of a static semantics for protocol executability and policy adherence.  Defined and demonstrated an ordering over protocols based on attack graph comparison using Chase and Coq.
   role: phd
 
