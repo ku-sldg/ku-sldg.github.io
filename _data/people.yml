@@ -105,7 +105,8 @@
   role: phd
 
 - name: Dr. Michael Neises
-  description: Verification-Enabled Runtime Integrity Attestation of Linux (VERIAL)- Runtime attestation is a way to gain confidence in the current state of a remote target. Layered attestation is a way of extending that confidence from one component to another. Introspective solutions for layered attestation require strict isolation. The seL4 is uniquely well-suited to offer kernel properties sufficient to achieve such isolation. We design, implement, and evaluate introspective measurements and the layered runtime attestation of a Linux kernel hosted by the seL4. VERIAL can detect diamorphine-style rootkits with performance cost comparable to previous work.
+  description: Verification-Enabled Runtime Integrity Attestation of Linux (VERIAL) - Runtime attestation is a way to gain confidence in the current state of a remote target. Layered attestation is a way of extending that confidence from one component to another. Introspective solutions for layered attestation require strict isolation. The seL4 is uniquely well-suited to offer kernel properties sufficient to achieve such isolation. We design, implement, and evaluate introspective measurements and the layered runtime attestation of a Linux kernel hosted by the seL4. VERIAL can detect diamorphine-style rootkits with performance cost comparable to previous work.
+  role: phd
 
 - name: Grant Jurgensen
   description: seL4 Attestation Architecture - Modeling, verifying, and implementation of a seL4-based attestation architecture.
