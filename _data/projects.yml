@@ -1,15 +1,29 @@
-- name: Honeywell Additive Manufacturing Trust
+- name: NSA SoS
   ghpages:
   github: ku-sldg
   repo:
-  description: "The objective of the Additive Manufacturing Trust project is development of means for assuring trust in a 3D printer."
+  description: "Under the NSA Science of Security Virtual Institute we are continuing our remote attestation work looking at defining a semantics of evidence; defining a canonical classification for flexible mechanisms; and evaluating long-running, complex attestation processes on our attestation testbed."
+  sponsor: National Security Agency Science of Security Virtual Institute
+
+- name: INSPECTA
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "Under the INSPECTA effort with Collins Aerospace we will be developing a lifecycle attestation capability and tools for formally synthesizing Rust specifications from Coq. Lifecycle attestation is gathering and appraising system measurements starting from early design stages and maintaining appraisal over system and requirements changes.  Our Rust synthesis capability will adapt CakeML synthesis tools developed for DARPA CASE.  We will define a synthesis fragment of Rust, retarget our transformation tool, and retarget our certification theorem generation tool."
+  sponsor: DARPA PROVERS subcontract with Collins Aerospace
+
+- name: Honeywell Digital Protective Environment
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the Honeywell project is development of means for assuring trust in an digital manufacturing environment.  We are using our MAESTRO tool suite to develop remote attestation arhitectures for addressing supplychain issues in digital manufacturing."
   sponsor: Kansas City National Security Campus
 
 - name: University Blockchain Research Initiative (UBRI)
   ghpages:
   github: ku-sldg
   repo:
-  description: "KU ITTC is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
+  description: "KU I2S is one of 25 University research centers to receive a gift from Ripple to explore aspects of blockchain technology. As a part of our UBRI gift we are looking at recording and distributing biodiversity data, resiliency, IoT and blockchain, trusted blockchain infrastructure, and blockchain as art."
   sponsor: Ripple UBRI
 
 - name: FAA A58
@@ -18,13 +32,6 @@
   repo:
   description: "FAA A58 is tasked with establishing the need for a UAS cybersecurity framework.  Working with Drexel University and Oregon State University we are exploring cybersecurity issues that make UAS systems different than traditional piloted systems.  We will develop a framework for cybersecurity assessment informed by those differences."
   sponsor: Federal Aviation Administration (FAA) ASSURE Program
-
-- name: Lifecycle Attestation
-  ghpages:
-  github: ku-sldg
-  repo:
-  description: "The objective of the DARPA Lifecycle Attestation program is investigating application of remote attestation techniques across the design lifecycle."
-  sponsor: DARPA I2O seedling, Collins Aerospace industry prime
 
 - name: Programming Langauges in Haskell
   github: ku-sldg

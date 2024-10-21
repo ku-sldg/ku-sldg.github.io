@@ -1,3 +1,10 @@
+- name: Lifecycle Attestation
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the DARPA Lifecycle Attestation program is investigating application of remote attestation techniques across the design lifecycle."
+  sponsor: DARPA I2O seedling, Collins Aerospace industry prime
+
 - name: National Security Agency Science of Security Lablet
   ghpages:
   github: ku-sldg
