@@ -36,12 +36,12 @@
   description: Undecided
   role: student
 
-- name: Jack Reynolds
+- name: Molly Masalskis
   description: Undecided
-  rule: student
+  role: student
 
-- name: Katelyn Accola
-  description: Undergradate Research
+- name: Anakha Krishna
+  description: Undecided
   role: student
 
 - name: Dr. Phillip Baraona
