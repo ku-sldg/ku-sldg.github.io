@@ -14,7 +14,7 @@ System Level Design group is supported by The University of Kansas'
 Institute for Information Science's High Assurance and Secure Systems
 Center.
 
-# Recent Activities
+## Recent Activities
 
 -----
 
@@ -30,11 +30,11 @@ Center.
 {% endfor %}
 </ul>
 
-# Team
+## Team
 
 -----
 
-## Faculty
+### Faculty
 
 <ul>
 {% for person in site.data.people %}
@@ -49,7 +49,7 @@ Center.
 {% endfor %}
 </ul>
 
-## Students
+### Students
 
 <ul>
 {% for person in site.data.people %}
@@ -64,7 +64,7 @@ Center.
 {% endfor %}
 </ul>
 
-## Research Staff
+### Research Staff
 
 <ul>
 {% for person in site.data.people %}
@@ -82,7 +82,7 @@ Center.
 The System-Level Design Group is a part of The Institute for
 Information Sciences at The University of Kansas.
 
-# Weekly Research Meetings
+## Weekly Research Meetings
 
 -----
 
