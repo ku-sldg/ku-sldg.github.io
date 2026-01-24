@@ -3,9 +3,9 @@ layout: frontpage
 title: SLDG
 ---
 
-The System Level Design Group is comprised of students and faculty
+The System Level Design Group comprises students and faculty
 investigating all aspects of systems level design at The University of
-Kansas Institute for Infomration Sciences. Advised by Dr. Perry
+Kansas Institute for Information Sciences. Advised by Dr. Perry
 Alexander, the group is engaged in several research projects including
 specification, verification and synthesis of complex systems, trusted
 computing, and system-level design. Each applies engineering methods
