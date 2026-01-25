@@ -111,7 +111,7 @@
   environment for executing Copland protocols, and lacks features like I/O and
   networking necessary for executing the base measurements given by Copland
   phrases. Therefore, it needs an implementation in a more general purpose
-  programming language. Coq’s current extraction mechanism provides this
+  programming language. Coqs current extraction mechanism provides this
   facility, but does not provide a formal guarantee that the extracted code has
   the same semantics as the logic it is extracted from. Providing such a
   guarantee requires a formal semantics for the target code.  The CakeML
