@@ -125,7 +125,6 @@
   details of the Coq translator.
   role: phd
 
-
 - name: Grant Jurgensen
   description: seL4 Attestation Architecture - Modeling, verifying, and implementation of a seL4-based attestation architecture.
   role: ms
