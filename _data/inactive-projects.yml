@@ -1,3 +1,17 @@
+- name: FAA A58
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "FAA A58 is tasked with establishing the need for a UAS cybersecurity framework.  Working with Drexel University and Oregon State University we are exploring cybersecurity issues that make UAS systems different than traditional piloted systems.  We will develop a framework for cybersecurity assessment informed by those differences."
+  sponsor: Federal Aviation Administration (FAA) ASSURE Program
+
+- name: Honeywell Digital Protective Environment
+  ghpages:
+  github: ku-sldg
+  repo:
+  description: "The objective of the Honeywell project is development of means for assuring trust in an digital manufacturing environment.  We are using our MAESTRO tool suite to develop remote attestation arhitectures for addressing supplychain issues in digital manufacturing."
+  sponsor: Kansas City National Security Campus
+
 - name: Lifecycle Attestation
   ghpages:
   github: ku-sldg
