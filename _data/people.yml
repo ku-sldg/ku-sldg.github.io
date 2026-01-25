@@ -16,10 +16,6 @@
   description: Research Assistant Professor
   role: faculty
 
-- name: Tj Barclay
-  description: Verified Coq to CakeML Synthesis
-  role: student
-
 - name: Sarah Johnson
   description: Attestation Evidence Semantics
   role: student
@@ -107,6 +103,28 @@
 - name: Dr. Michael Neises
   description: Verification-Enabled Runtime Integrity Attestation of Linux (VERIAL) - Runtime attestation is a way to gain confidence in the current state of a remote target. Layered attestation is a way of extending that confidence from one component to another. Introspective solutions for layered attestation require strict isolation. The seL4 is uniquely well-suited to offer kernel properties sufficient to achieve such isolation. We design, implement, and evaluate introspective measurements and the layered runtime attestation of a Linux kernel hosted by the seL4. VERIAL can detect diamorphine-style rootkits with performance cost comparable to previous work.
   role: phd
+
+- name: Dr. Timothy (Tj) Barclay
+  description: Verified Coq to CakeML Synthesis - The Copland protocol
+  description language and its runtime are defined in Coq and have functional
+  correctness properties proven over them. However Coq is not the desired
+  environment for executing Copland protocols, and lacks features like I/O and
+  networking necessary for executing the base measurements given by Copland
+  phrases. Therefore, it needs an implementation in a more general purpose
+  programming language. Coq’s current extraction mechanism provides this
+  facility, but does not provide a formal guarantee that the extracted code has
+  the same semantics as the logic it is extracted from. Providing such a
+  guarantee requires a formal semantics for the target code.  The CakeML
+  project, implemented in HOL4, provides a formally defined syntax and semantics
+  for a subset of SML that has been used to prove the correctness for its
+  compiler. It also includes a certifying translator from higher-order logic to
+  CakeML. We define the CakeML semantics in Coq and develop a certifying
+  translator from Gallina to CakeML using the techniques originally pioneered by
+  the CakeML team in HOL4. In the process, we address how differences between
+  higher-order logic and the calculus of constructions affect the implementation
+  details of the Coq translator.
+  role: phd
+
 
 - name: Grant Jurgensen
   description: seL4 Attestation Architecture - Modeling, verifying, and implementation of a seL4-based attestation architecture.
