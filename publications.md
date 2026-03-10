@@ -5,6 +5,10 @@ title: Publications
 
 # Selected Publications
 
+* Will Thomas, Logan Schmalz, Adam Petz, Perry Alexander, Joshua D. Guttman,
+  Paul D. Rowe, James Carter, "Designing Trustworthy Layered Attestations,"
+  [https://arxiv.org/abs/2603.06326](https://arxiv.org/abs/2603.06326), March 2026.
+
 * Petz, A., W. Thomas, A. Fritz, T. Barclay, L. Schmalz, and P. Alexander,
   ``Verified Configuration and Deployment of Layered Attestation Managers,''
   _22nd International Conference on Software Engineering and Formal
