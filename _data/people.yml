@@ -102,7 +102,7 @@
 
 - name: Logan Schmalz
   description: A Framework for Controlled Key Release - Design of a mechanism
-  for controlling key access in the presence of an adversary with high privilege.
+  for controlling key access in the presence of an adversary with elevated privilege.
   role: ms
 
 - name: Grant Jurgensen
