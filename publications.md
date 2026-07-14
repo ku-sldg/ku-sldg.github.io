@@ -5,8 +5,13 @@ title: Publications
 
 # Selected Publications
 
-* Will Thomas, Logan Schmalz, Adam Petz, Perry Alexander, Joshua D. Guttman,
-  Paul D. Rowe, James Carter, "Designing Trustworthy Layered Attestations,"
+* Thomas, W., L. Schmalz, A. Petz, P. Alexander, J.D. Guttman,
+  P.D. Rowe, J. Carter, "Designing Trustworthy Layered Attestations,"
+  _LICS'26 Workshop on Foundations of Computer Security (FCS'26)_, July 2026,
+  Lisbon, Portugal.
+
+* Thomas, W., L. Schmalz, A. Petz, P. Alexander, J.D. Guttman,
+  P.D. Rowe, J. Carter, "Designing Trustworthy Layered Attestations,"
   [https://arxiv.org/abs/2603.06326](https://arxiv.org/abs/2603.06326), March 2026.
 
 * Petz, A., W. Thomas, A. Fritz, T. Barclay, L. Schmalz, and P. Alexander,
